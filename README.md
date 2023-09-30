@@ -2,9 +2,19 @@
 
 ## Newsletter, Blog, News
 
++ public org: softreck.com - CEO - strategy, businesss side of projects 
++ news: researcher.pl - researcher - Near Future
++ blog: onepersonsaas.com - One Person SaaS - Automate Yourself
++ blog: platformengineer.net - DevOps, NetOps  News
++ community: apifoundation.com - open source community
++ public: softreck.dev - CTO- development department, technical side of project    
++ private:
+ + communication
+ + contracts
+ + platform
+ + CFO
 
- 
-
+    
 
 ## Human Integration
 
@@ -19,13 +29,13 @@
 
 + aipersonalisation.com - AI personalisation -
   
-+ teleoperator.net
++ teleoperator.net - hybrid communication asistant
   + cameramind.com
   + cameraMonit.com  
   + vocamera.com  
     + VoCoCam.com      
 
-+ gaiann.com
++ gaiann.com - AI worker
   + edichat
     + poloshell
       + pologos
@@ -34,9 +44,9 @@
 
 ## Secure communication
 
-+ finofficer.com - Fin Officer - Encrypted Finances
-  + unleaky.com - Un-Leaky - Trusted Foundation
-    + lockerless
++ SaaS: finofficer.com - Fin Officer - Encrypted Finances
+  + Service, Blog: unleaky.com - Un-Leaky - Trusted Foundation
+    + SaaS, lockerless
     + veridock
     + docutemp
     + docutan
@@ -44,38 +54,31 @@
 
 
 
-
 ## Infra Deployment, management, distribution
 
-+ onepersonsaas.com - One Person SaaS - Automate Yourself
++ saasisking.com - SaaS is King - Unattended Sales   
 + askdomainer.com - Ask Domainer - name it! - Network of Domains
 
-+ platformengineeering.net - DevOps, NetOps  News
-+ researcher.pl - researcher - Near Future
-  
-+ saasisking.com - SaaS is King - Unattended Sales
-  + parkingomat
+
+  + parkingomat.com, UI for infra
   + deploymat
   + dynapsys.com
   + oneday.run 
-    + recordns
+    + recordns.com - DNS records management
   + infreck.com
-    + Mapigration - mapping of objects
+  + moniTalk.com - Voice Communication 
+    + Mapigration - mapping of Infra objects
     + Infrash - shell scripts to build the environment based on mapigration    
-    + mulitsitemap
-    + webpageshot
-    + inframonit.com - DSL
-    + moniTalk.com - Voice Communication 
-    + whoisarch
-
-
+    + mulitsitemap -structure of websitest
+    + webpageshot - screenshosts
+    + inframonit.com - server logs, 
+    + whoisarch.com - dns changes on whois
 
 
 ## Data Interface, elastic search
 
 + browseen
 + browseek
-
 
 
 
