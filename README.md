@@ -6,14 +6,12 @@
 + news: researcher.pl - researcher - Near Future
 + blog: onepersonsaas.com - One Person SaaS - Automate Yourself
 + blog: platformengineer.net - DevOps, NetOps  News
-+ community: apifoundation.com - open source community
-+ public: softreck.dev - CTO- development department, technical side of project    
++ development department: softreck.dev - CTO - technical side of project   
 + private:
   + communication
   + contracts
   + platform
   + CFO
-
     
 
 ## Human Integration
@@ -25,24 +23,9 @@
   + codialog.com - co dialog - Specification Transfer
 
 
-## AI Asistant
-
-+ aipersonalisation.com - AI personalisation -
-  
-+ teleoperator.net - hybrid communication asistant
-  + cameramind.com
-  + cameraMonit.com  
-  + vocamera.com  
-    + VoCoCam.com      
-
-+ gaiann.com - AI worker
-  + edichat
-    + poloshell
-      + pologos
-    
-  
-
-## Secure communication
+## Human Communication. 
+Data Integration. 
+Text To **Person**
 
 + SaaS: finofficer.com - Fin Officer - Encrypted Finances
   + Service, Blog: unleaky.com - Un-Leaky - Trusted Foundation
@@ -53,47 +36,89 @@
     
 
 
+## Personalisation.
+Text To **Task**
 
-## Infra Deployment, management, distribution
++ aipersonalisation.com - AI personalisation -
+  
++ [gaiann.com - Personal worker to automate PC-based tasks](https://www.gaiann.com/)
+  + edichat.com
+    + poloshell.com
+      + pologos.com 
 
-+ saasisking.com - SaaS is King - Unattended Sales   
+    
+## Monitoring. 
+Voice To **Command**
+
++ teleoperator.net - hybrid communication asistant
+  + cameramind.com - cameramind
+  + cameraMonit.com  - cameraMonit
+  + vocamera.com - vocamera
+    + VoCoCam.com - VoCoCam      
+
+
+## Infra Management
+
 + askdomainer.com - Ask Domainer - name it! - Network of Domains
++ parkingomat.com, UI for infra
++ dynapsys.com
+  + recordns.com - DNS records management
+
++ moniTalk.com - Voice Command Communication 
+  + Mapigration - mapping of Infra objects
+  + Infrash - shell scripts to build the environment based on mapigration      
 
 
-  + parkingomat.com, UI for infra
-  + deploymat
-  + dynapsys.com
-  + oneday.run 
-    + recordns.com - DNS records management
-  + infreck.com
-  + moniTalk.com - Voice Communication 
-    + Mapigration - mapping of Infra objects
-    + Infrash - shell scripts to build the environment based on mapigration    
-    + mulitsitemap -structure of websitest
-    + webpageshot - screenshosts
-    + inframonit.com - server logs, 
-    + whoisarch.com - dns changes on whois
+## Infra Monitoring. 
+
+Big Data:
+? infreck.com
++ mulitsitemap -structure of websitest
++ webpageshot - screenshosts
++ inframonit.com - server logs, 
++ whoisarch.com - dns changes on whois
 
 
-## Data Interface, elastic search
+## Data Interface
+
+Data Visualisation, elastic search
 
 + browseen
 + browseek
+  + Promagen
+  + apiterminal
 
 
 
+## Text To Service
 
-## Services Development
++ saasisking.com - SaaS is King - Unattended Sales      
+  + oneday.run 
+    + dialogware.com - dialog ware - Text To Software
+      + dialogSync.com - dialog sync -  
+        + webstream.com - web stream - Application Streaming  
+          + jloads
+     
 
-  
-+ dialogware.com - dialog ware - Text To Software
-  + webstream.com - web stream - Application Streaming  
-    + jloads
-  + apiFoundation
-    + apiDSL
-    + apiMacro
-    + apiRPC
-    + apiSQL
-    + dslFunc
+
+## Deployment.
+
++ deploymat.com - marketplace
+  + apiDSL
+  + apiRPC
+  + apiMacro
+  + dslFunc
+  + 
+
+
+## Community.
+Software Integration.
+
++ apifoundation.com - open source community      
+  + apiDSL
+  + apiMacro
+  + apiRPC
+  + apiSQL
+  + dslFunc
 
 
