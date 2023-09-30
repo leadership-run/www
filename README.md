@@ -16,7 +16,7 @@ By combining both Human-Centric and Software-Centric approaches, we ensure that 
 
 # Human Centric Solutions
 
-#### Newsletter, Blog, News
+### Newsletter, Blog, News
 
 + public org: softreck.com - CEO - strategy, businesss side of projects 
 + news: researcher.pl - researcher - Near Future
@@ -28,7 +28,7 @@ By combining both Human-Centric and Software-Centric approaches, we ensure that 
   + CFO
     
 
-#### Human Integration/Interface
+### Human Integration/Interface
 
 + wetware.dev - wetware - Human Integration
   + coboarding.com - co onboarding - Identity Transfer
@@ -37,7 +37,7 @@ By combining both Human-Centric and Software-Centric approaches, we ensure that 
   + codialog.com - co dialog - Data Transfer
 
 
-#### Transactions
+### Transactions
 
 Files & Human Integration.
 
@@ -54,7 +54,7 @@ Transactions:
     + docutan
 
 
-#### Assistant. Vision & Voice
+### Assistant. Vision & Voice
 
 Camera, Speech & Human Integration. 
 
@@ -71,7 +71,7 @@ Voice To **Command**
     + VoCoCam.com - VoCoCam      
     
 
-#### Worker. Automate Task.
+### Worker. Automate Task.
 
 Personalisation.
 Text To **Task**
@@ -92,7 +92,7 @@ Voice To **Task**
 + blog: platformengineer.net - DevOps, NetOps  News
 + development department: softreck.dev - CTO - technical side of project
   
-#### Community.
+### Community.
 
 Software Integration.
 
@@ -104,7 +104,7 @@ Software Integration.
   + dslFunc
 
 
-#### DSL - Domain-Specific language.
+### DSL - Domain-Specific language.
 
 + Speech & Human Integration
 + Infra & Human Integration
@@ -116,7 +116,7 @@ Software Integration.
   + Infrash - shell scripts to build the environment based on mapigration      
   
 
-#### Data Interface
+### Data Interface
 
 Data Visualisation, elastic search
 
@@ -126,7 +126,7 @@ Data Visualisation, elastic search
   + apiterminal
 
 
-#### Infra Monitoring. 
+### Infra Monitoring. 
 
 Big Data:
 ? infreck.com
@@ -137,7 +137,7 @@ Big Data:
 
 
 
-#### Deployment.
+### Deployment.
 
 + deploymat.com - marketplace
   + apiDSL
@@ -147,7 +147,7 @@ Big Data:
   + 
 
 
-#### Manager. Infra Management
+### Manager. Infra Management
 
 + askdomainer.com - Ask Domainer - name it! - Network of Domains
 + parkingomat.com, UI for infra
@@ -155,7 +155,7 @@ Big Data:
   + recordns.com - DNS records management
 
 
-#### Text To Service
+### Text To Service
 
 + saasisking.com - SaaS is King - Unattended Sales      
   + oneday.run 
