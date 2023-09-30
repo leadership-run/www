@@ -7,7 +7,7 @@
 + askdomainer.com - Ask Domainer - name it! - Network of Domains
 + researcher.pl - researcher - Near Future
 + platformengineeering.net - DevOps, NetOps  News
-
++ aipersonalisation.com - AI personalisation - 
 
 
 ## Human Integration
@@ -29,6 +29,21 @@
     + docutan
     
 
+
+
+## Services Development
+
++ dialogware.com - dialog ware - text To Software
++ webstream.com - web stream - Application Streaming  
+  + jloads
++ apiFoundation
+  + apiDSL
+  + apiMacro
+  + apiRPC
+  + apiSQL
+  + dslFunc
+
+
 ## Infra Deployment, management, distribution
 
 + parkingomat
@@ -36,24 +51,11 @@
 + dynapsys.com
 + oneday.run 
   + recordns
++ infreck.com
+  + Mapigration - mapping of objects
+  + Infrash - shell scripts to build the environment based on mapigration
 
   
-
-## Services Development
-
-+ dialogware.com - dialog ware - text To Software
-+ webstream.com - web stream - Application Streaming  
-  + jloads
-
-    
-## Libraries, Definitions
-
-+ apiFoundation
-  + apiDSL
-  + apiMacro
-  + apiRPC
-  + apiSQL
-  + dslFunc
 
 ## Monitoring, events, logs, 
 
