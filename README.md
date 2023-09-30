@@ -1,6 +1,6 @@
 # [roadmap.softreck.com](http://roadmap.softreck.com)
 
-## Newsletter, Blog, Partnership
+## Newsletter, Blog, News
 
 + onepersonsaas.com - One Person SaaS - Automate Yourself
 + saasisking.com - SaaS is King - Unattended Sales
