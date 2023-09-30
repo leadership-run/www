@@ -24,7 +24,7 @@
 
 
 
-## Tranactions
+## Transactions
 
 Files & Human Integration.
 
