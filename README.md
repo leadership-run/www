@@ -1,12 +1,26 @@
 # [roadmap.softreck.com](http://roadmap.softreck.com)
 
+In our organization, we are working on two key layers: **Human**-Centric Solutions and **Software**-Centric Solutions. 
+
+Human-Centric Solutions: 
+This layer puts human needs, experiences, and interactions at the forefront. 
+We aim to understand the challenges and aspirations of people and design solutions that cater to their specific requirements. 
+Our approach focuses on user research, intuitive interfaces, ease of use, and enhancing overall user satisfaction.
+
+Software-Centric Solutions:
+This layer centers around developing robust and scalable software solutions to address complex problems. 
+We leverage cutting-edge technologies, programming languages, and software engineering principles to build efficient and reliable systems. 
+Our focus lies in developing advanced algorithms, data processing, automation, and optimization to deliver innovative software-centric solutions.
+
+By combining both Human-Centric and Software-Centric approaches, we ensure that our solutions not only meet functional requirements but also provide an exceptional user experience.
+
+# Human Centric Solutions
+
 ## Newsletter, Blog, News
 
 + public org: softreck.com - CEO - strategy, businesss side of projects 
 + news: researcher.pl - researcher - Near Future
 
-+ blog: platformengineer.net - DevOps, NetOps  News
-+ development department: softreck.dev - CTO - technical side of project   
 + private:
   + communication
   + contracts
@@ -21,7 +35,6 @@
   + cotutorial.com - co tutorial - Experience Transfer 
   + cosensation.com -  co sensation - Emotion Transfer
   + codialog.com - co dialog - Data Transfer
-
 
 
 ## Transactions
@@ -41,19 +54,6 @@ Transactions:
     + docutan
 
 
-
-## DSL.
-
-+ Speech & Human Integration
-+ Infra & Human Integration
-+ Text To **Command**
-+ Voice To **Command**
-
-+ moniTalk.com - Voice Command Communication 
-  + Mapigration - mapping of Infra objects
-  + Infrash - shell scripts to build the environment based on mapigration      
-  
-  
 ## Assistant. Vision & Voice
 
 Camera, Speech & Human Integration. 
@@ -86,13 +86,44 @@ Voice To **Task**
       + pologos.com 
 
 
-## Manager. Infra Management
 
-+ askdomainer.com - Ask Domainer - name it! - Network of Domains
-+ parkingomat.com, UI for infra
-+ dynapsys.com
-  + recordns.com - DNS records management
+# Software Centric Solutions
 
++ blog: platformengineer.net - DevOps, NetOps  News
++ development department: softreck.dev - CTO - technical side of project
+  
+## Community.
+
+Software Integration.
+
++ apifoundation.com - open source community      
+  + apiDSL
+  + apiMacro
+  + apiRPC
+  + apiSQL
+  + dslFunc
+
+
+## DSL.
+
++ Speech & Human Integration
++ Infra & Human Integration
++ Text To **Command**
++ Voice To **Command**
+
++ moniTalk.com - Voice Command Communication 
+  + Mapigration - mapping of Infra objects
+  + Infrash - shell scripts to build the environment based on mapigration      
+  
+
+## Data Interface
+
+Data Visualisation, elastic search
+
++ browseen
++ browseek
+  + Promagen
+  + apiterminal
 
 
 ## Infra Monitoring. 
@@ -105,15 +136,23 @@ Big Data:
 + whoisarch.com - dns changes on whois
 
 
-## Data Interface
 
-Data Visualisation, elastic search
+## Deployment.
 
-+ browseen
-+ browseek
-  + Promagen
-  + apiterminal
++ deploymat.com - marketplace
+  + apiDSL
+  + apiRPC
+  + apiMacro
+  + dslFunc
+  + 
 
+
+## Manager. Infra Management
+
++ askdomainer.com - Ask Domainer - name it! - Network of Domains
++ parkingomat.com, UI for infra
++ dynapsys.com
+  + recordns.com - DNS records management
 
 
 ## Text To Service
@@ -126,25 +165,6 @@ Data Visualisation, elastic search
           + jloads
      
 
-
-## Deployment.
-
-+ deploymat.com - marketplace
-  + apiDSL
-  + apiRPC
-  + apiMacro
-  + dslFunc
-  + 
-
-
-## Community.
-Software Integration.
-
-+ apifoundation.com - open source community      
-  + apiDSL
-  + apiMacro
-  + apiRPC
-  + apiSQL
-  + dslFunc
+  
 
 
