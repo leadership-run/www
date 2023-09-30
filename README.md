@@ -14,7 +14,10 @@ Our focus lies in developing advanced algorithms, data processing, automation, a
 
 By combining both Human-Centric and Software-Centric approaches, we ensure that our solutions not only meet functional requirements but also provide an exceptional user experience.
 
+
 # Human Centric Solutions
+
+Solutions: Services Driven Approach
 
 ### Newsletter, Blog, News
 
@@ -87,7 +90,23 @@ Voice To **Task**
 
 
 
+### Text To Service
+
++ saasisking.com - SaaS is King - Unattended Sales      
+  + oneday.run 
+    + dialogware.com - dialog ware - Text To Software
+      + dialogSync.com - dialog sync -  
+        + webstream.com - web stream - Application Streaming  
+          + jloads
+     
+
+  
+
+
+
 # Software Centric Solutions
+
+Software: Software Driven Approach
 
 + blog: platformengineer.net - DevOps, NetOps  News
 + development department: softreck.dev - CTO - technical side of project
@@ -154,17 +173,5 @@ Big Data:
 + dynapsys.com
   + recordns.com - DNS records management
 
-
-### Text To Service
-
-+ saasisking.com - SaaS is King - Unattended Sales      
-  + oneday.run 
-    + dialogware.com - dialog ware - Text To Software
-      + dialogSync.com - dialog sync -  
-        + webstream.com - web stream - Application Streaming  
-          + jloads
-     
-
-  
 
 
