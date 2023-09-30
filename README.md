@@ -1,9 +1,13 @@
 # [roadmap.softreck.com](http://roadmap.softreck.com)
 
 ## Newsletter, Blog, Partnership
-+ onepersonsaas.com - One Person SaaS - Unattended Sales
-+ askdomainer.com - Ask Domainer -
-+ researcher.pl
+
++ onepersonsaas.com - One Person SaaS - Automate Yourself
++ saasisking.com - SaaS is King - Unattended Sales
++ askdomainer.com - Ask Domainer - name it!
++ researcher.pl - researcher - Near Future
++ platformengineeering.net - DevOps, NetOps  News
+
 
 
 ## Human Integration
