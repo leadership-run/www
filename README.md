@@ -15,6 +15,7 @@ Our focus lies in developing advanced algorithms, data processing, automation, a
 By combining both Human-Centric and Software-Centric approaches, we ensure that our solutions not only meet functional requirements but also provide an exceptional user experience.
 
 
+
 # Human Centric Solutions
 
 Solutions: Services Driven Approach
@@ -60,8 +61,7 @@ Transactions:
 ### Assistant. Vision & Voice
 
 Camera, Speech & Human Integration. 
-
-human sensor:
+Human sensor:
 + Eye
 + Ear 
 Video To **Eye**
@@ -77,22 +77,30 @@ Voice To **Command**
 ### Worker. Automate Task.
 
 Personalisation.
-Text To **Task**
-Voice To **Task**
++ Text To **Task**
 
-+ blog: onepersonsaas.com - One Person SaaS - Automate Yourself
 + blog: aipersonalisation.com - AI personalisation -
-  
-+ [gaiann.com - Personal worker to automate PC-based tasks](https://www.gaiann.com/)
++ SaaS: [gaiann.com - Personal worker to automate PC-based tasks](https://www.gaiann.com/)
   + edichat.com
     + poloshell.com
       + pologos.com 
 
 
+---
 
-### Text To Service
 
-+ saasisking.com - SaaS is King - Unattended Sales      
+# Infrastructure Centric Solutions
+
+Services: Operations Driven Approach
+
++ DevOps
++ NetOps
+
+
+### Development. Text To Service
+
++ blog: onepersonsaas.com - One Person SaaS - Automate Yourself
++ SaaS: saasisking.com - SaaS is King - Unattended Sales      
   + oneday.run 
     + dialogware.com - dialog ware - Text To Software
       + dialogSync.com - dialog sync -  
@@ -100,30 +108,17 @@ Voice To **Task**
           + jloads
      
 
-  
 
+### Deployment.
 
-
-# Software Centric Solutions
-
-Software: Software Driven Approach
-
-+ blog: platformengineer.net - DevOps, NetOps  News
-+ development department: softreck.dev - CTO - technical side of project
-  
-### Community.
-
-Software Integration.
-
-+ apifoundation.com - open source community      
++ deploymat.com - marketplace
   + apiDSL
-  + apiMacro
   + apiRPC
-  + apiSQL
+  + apiMacro
   + dslFunc
+    
 
-
-### DSL - Domain-Specific language.
+### Monitoring
 
 + Speech & Human Integration
 + Infra & Human Integration
@@ -133,7 +128,41 @@ Software Integration.
 + moniTalk.com - Voice Command Communication 
   + Mapigration - mapping of Infra objects
   + Infrash - shell scripts to build the environment based on mapigration      
+
+
+### Management
+
++ askdomainer.com - Ask Domainer - name it! - Network of Domains
++ parkingomat.com, UI for infra
++ dynapsys.com
+  + recordns.com - DNS records management
+
+
+
+---
+    
+
+# Software Centric Solutions
+
+Software: Software Driven Approach
+
++ blog: platformengineer.net - DevOps, NetOps  News
++ development department: softreck.dev - CTO - technical side of project
+
   
+### Community.
+
+Software Integration.
++ DSL - Domain-Specific language.
+  
++ apifoundation.com - open source community      
+  + apiDSL
+  + apiMacro
+  + apiRPC
+  + apiSQL
+  + dslFunc
+
+
 
 ### Data Interface
 
@@ -155,23 +184,6 @@ Big Data:
 + whoisarch.com - dns changes on whois
 
 
-
-### Deployment.
-
-+ deploymat.com - marketplace
-  + apiDSL
-  + apiRPC
-  + apiMacro
-  + dslFunc
-  + 
-
-
-### Manager. Infra Management
-
-+ askdomainer.com - Ask Domainer - name it! - Network of Domains
-+ parkingomat.com, UI for infra
-+ dynapsys.com
-  + recordns.com - DNS records management
 
 
 
