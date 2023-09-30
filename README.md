@@ -12,11 +12,19 @@
 ## Human Integration
 
 + wetware.dev - wetware - Human Integration
-  + coBoarding.com - co onboarding - Identity Transfer
-  + coTutorial.com - co tutorial - Experience Transfer 
-  + coSensation.com -  co sensation - Emotion Transfer
+  + coboarding.com - co onboarding - Identity Transfer
+  + cotutorial.com - co tutorial - Experience Transfer 
+  + cosensation.com -  co sensation - Emotion Transfer
+  + codialog.com - co Dialog - Specification Transfer
 
+## Automation
 
++ teleoperator.net
++ cameramind.com
++ gaiann.com
+  + pologos
+    + poloshell
+  
 
 ## Secure communication
 
