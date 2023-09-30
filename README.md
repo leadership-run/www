@@ -15,7 +15,8 @@
   + coboarding.com - co onboarding - Identity Transfer
   + cotutorial.com - co tutorial - Experience Transfer 
   + cosensation.com -  co sensation - Emotion Transfer
-  + codialog.com - co Dialog - Specification Transfer
+  + codialog.com - co dialog - Specification Transfer
+
 
 ## Automation
 
