@@ -9,10 +9,10 @@
 + community: apifoundation.com - open source community
 + public: softreck.dev - CTO- development department, technical side of project    
 + private:
- + communication
- + contracts
- + platform
- + CFO
+  + communication
+  + contracts
+  + platform
+  + CFO
 
     
 
