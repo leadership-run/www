@@ -22,8 +22,10 @@
 + teleoperator.net
 + cameramind.com
 + gaiann.com
-  + pologos
+  + edichat
     + poloshell
+      + pologos
+    
   
 
 ## Secure communication
