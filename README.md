@@ -60,12 +60,10 @@ Transactions:
 
 ### Assistant. Vision & Voice
 
-Camera, Speech & Human Integration. 
-Human sensor:
-+ Eye
-+ Ear 
-Video To **Eye**
-Voice To **Command**
+Camera, Speech for Human Integration. 
+Human sensor: Eye, Ear 
++ Video To **Eye**
++ Voice To **Command**
 
 + teleoperator.net - hybrid communication asistant
   + cameramind.com - cameramind
@@ -76,9 +74,7 @@ Voice To **Command**
 
 ### Worker. Automate Task.
 
-Personalisation.
-+ Text To **Task**
-
+Text To **Task**
 + blog: aipersonalisation.com - AI personalisation -
 + SaaS: [gaiann.com - Personal worker to automate PC-based tasks](https://www.gaiann.com/)
   + edichat.com
@@ -91,7 +87,7 @@ Personalisation.
 
 # Infrastructure Centric Solutions
 
-Services: Operations Driven Approach
++ Operations Driven Approach
 
 + DevOps
 + NetOps
@@ -144,8 +140,7 @@ Services: Operations Driven Approach
 
 # Software Centric Solutions
 
-Software: Software Driven Approach
-
++ Sourcode Driven Approach
 + blog: platformengineer.net - DevOps, NetOps  News
 + development department: softreck.dev - CTO - technical side of project
 
