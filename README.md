@@ -3,7 +3,17 @@
 ## Newsletter, Blog, Partnership
 + onepersonsaas.com - One Person SaaS - Unattended Sales
 + askdomainer.com - Ask Domainer -
-+ 
++ researcher.pl
+
+
+## Human Integration
+
++ wetware.dev - wetware - Human Integration
+  + coBoarding.com - co onboarding - Identity Transfer
+  + coTutorial.com - co tutorial - Experience Transfer 
+  + coSensation.com -  co sensation - Emotion Transfer
+
+
 
 ## Secure communication
 
@@ -21,39 +31,41 @@
 
 + parkingomat
 + deploymat
-+ dynapsys
-+ oneday.run
++ dynapsys.com
++ oneday.run 
   + recordns
+
   
 
 ## Services Development
 
-+ dialogware
-+ webstream
-+ 
++ dialogware.com - dialog ware - text To Software
++ webstream.com - web stream - Application Streaming
 
+## Libraries, Definitions
+
++ apiDSL
++ apiMacro
++ apiRPC
++ apiSQL
++ dslFunc
 
 ## Monitoring, events, logs, 
 
 + mulitsitemap
 + webpageshot
 + inframonit
-+ monitalk
 + whoisarch
 + inframonit
 
 
-## Data Processing, elastic search
+
+## Data Interface, elastic search
 
 + browseen
 + browseek
-
-
-
-
-## Process Building 
-
-
++ cameraMonit
++ moniTalk
 
 
 ## techstack
