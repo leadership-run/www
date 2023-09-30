@@ -21,15 +21,13 @@
 
 ## Secure communication
 
-+ unleaky.com - Un-Leaky - Trusted Foundation
-  + lockerless
-  + veridock
-  + docutemp
-  + docutan
-    
 + finofficer.com - Fin Officer - Encrypted Finances
-
-
+  + unleaky.com - Un-Leaky - Trusted Foundation
+    + lockerless
+    + veridock
+    + docutemp
+    + docutan
+    
 
 ## Infra Deployment, management, distribution, infra
 
