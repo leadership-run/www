@@ -4,7 +4,7 @@
 
 + onepersonsaas.com - One Person SaaS - Automate Yourself
 + saasisking.com - SaaS is King - Unattended Sales
-+ askdomainer.com - Ask Domainer - name it!
++ askdomainer.com - Ask Domainer - name it! - Network of Domains
 + researcher.pl - researcher - Near Future
 + platformengineeering.net - DevOps, NetOps  News
 
