@@ -29,7 +29,7 @@
     + docutan
     
 
-## Infra Deployment, management, distribution, infra
+## Infra Deployment, management, distribution
 
 + parkingomat
 + deploymat
