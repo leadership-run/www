@@ -213,9 +213,7 @@ Text To **Task**
 
 # Services Centric Solutions
 
-  
 Services: Operations Driven Approach
-
 Service = Working Software = Infra + Code
 
 
@@ -258,24 +256,15 @@ Service = Working Software = Infra + Code
 # Software
 
 Software Centric Solutions
-
-Services: Operations Driven Approach
-
-Software = Infra + Code
-
-+ DevOps
-+ NetOps
-
-
-Source-code Centric Solutions
+Software = Infra + Sourcecode
+Sourcecode Centric Solutions
 Development: Sourcode Driven Approach
 
 + blog: platformengineer.net - DevOps, NetOps  News
 + development department: softreck.dev - CTO - technical side of project
 
 
-
-Development centric
+### Development centric
 
 + Community
 + libraries
@@ -283,10 +272,8 @@ Development centric
 + API communication
 + SDK integration
 
-
   
 ### Community
-
 Software Integration.
 
 + DSL - Domain-Specific language.
@@ -311,21 +298,22 @@ Data Visualisation, elastic search
 
 
 
-
 ---    
 
 
-### Conditions
-
-driven Standards 
-
 # Conditions
 Idea centric by Research 
+
+Conditions driven Standards 
 
 + Standards
   + Schema
   + Patterns
 
+### Documentation
+
++ flatedit
++ plainedit
 
 
 ### Standards
