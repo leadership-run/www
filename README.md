@@ -19,13 +19,18 @@ These solutions aim to enhance the availability, performance, security, and mana
 By combining both Human-Centric and Software-Centric approaches, we ensure that our solutions not only meet functional requirements but also provide an exceptional user experience.
 
 
-## CORE
++ Brand identity
++ Needs Specification
++ Solutions Documentation
++ Schema
+
+## Framework
 
 + Solutions = Needs + Services
   + Services = Operations + Software
     + Software = Infra + Code
-      + Code = human + Conditions
-        + Conditions = Standards + techstack
+      + Code = Community + Conditions
+        + Conditions = Standards + Techstack
 
 
 
@@ -251,6 +256,11 @@ Software = Infra + Code
 
 # Sourcecode
 
+Source-code Centric Solutions
+
+Development: Sourcode Driven Approach
+
+
 Development centric
 
 + Community
@@ -260,9 +270,6 @@ Development centric
 + SDK integration
 
 
-Source-code Centric Solutions
-
-Development: Sourcode Driven Approach
 
 + blog: platformengineer.net - DevOps, NetOps  News
 + development department: softreck.dev - CTO - technical side of project
@@ -300,21 +307,15 @@ Data Visualisation, elastic search
 
 ### Conditions
 
+driven Standards 
 
 # Conditions
 Idea centric by Research 
 
 + Standards
-+ Patterns
-+ Community
+  + Schema
+  + Patterns
 
-
-
-
-### techstack
-
-
-### patterns
 
 
 ### Standards
@@ -327,4 +328,11 @@ Idea centric by Research
 
 
 
+### techstack
+
+
+### patterns
+
+
+### Schema
 
