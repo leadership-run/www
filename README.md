@@ -194,6 +194,19 @@ Text To **Task**
 
 
 
+### Service Market
+
+#### Development. Text To Service
+
++ blog: onepersonsaas.com - One Person SaaS - Automate Yourself
++ SaaS: saasisking.com - SaaS is King - Unattended Sales      
+  + oneday.run 
+    + dialogware.com - dialog ware - Text To Software
+      + dialogSync.com - dialog sync -  
+        + webstream.com - web stream - Application Streaming  
+          + jloads
+     
+
 ---
 
 
@@ -238,10 +251,13 @@ Service = Working Software = Infra + Code
 + NetOps
 
   
+
+
 ---
 
+# Software
 
-# Software Centric Solutions
+Software Centric Solutions
 
 Services: Operations Driven Approach
 
@@ -250,25 +266,13 @@ Software = Infra + Code
 + DevOps
 + NetOps
 
-  
-### Development. Text To Service
-
-+ blog: onepersonsaas.com - One Person SaaS - Automate Yourself
-+ SaaS: saasisking.com - SaaS is King - Unattended Sales      
-  + oneday.run 
-    + dialogware.com - dialog ware - Text To Software
-      + dialogSync.com - dialog sync -  
-        + webstream.com - web stream - Application Streaming  
-          + jloads
-     
-
----
-
-# Sourcecode
 
 Source-code Centric Solutions
-
 Development: Sourcode Driven Approach
+
++ blog: platformengineer.net - DevOps, NetOps  News
++ development department: softreck.dev - CTO - technical side of project
+
 
 
 Development centric
@@ -280,10 +284,6 @@ Development centric
 + SDK integration
 
 
-
-+ blog: platformengineer.net - DevOps, NetOps  News
-+ development department: softreck.dev - CTO - technical side of project
-
   
 ### Community
 
@@ -294,7 +294,7 @@ Software Integration.
 + apifoundation.com - open source community      
 
 
-### Functions
+### Functions, libraries
 
 + apiSQL
 + dslFunc
