@@ -29,7 +29,7 @@ By combining both Human-Centric and Software-Centric approaches, we ensure that 
 + Solutions = Needs + Services
   + Services = Operations + Software
     + Software = Infra + Code
-      + Code = Community + Conditions
+      + SourceCode = Community + Conditions
         + Conditions = Standards + Techstack
 
 
@@ -87,6 +87,7 @@ Idea centric
 | Debug       | Configure  | Security    | Change     |
 | Collaborate | Automate   | Availability| Compliance |
 | Version     | Orchestrate| Errors      | Audit      |
+
 
 
 # Human Centric Solutions
@@ -185,8 +186,6 @@ Text To **Task**
 
 
 
-
-
 # Services Centric Solutions
 
   
@@ -227,6 +226,7 @@ Service = Working Software = Infra + Code
 
 + DevOps
 + NetOps
+
   
 ---
 
