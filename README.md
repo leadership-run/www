@@ -180,9 +180,9 @@ Automate Tasks through Sentences
 + Software
   + poloshell.com
   + pologos.com
-   
 
 ### Worker
+
 Automate Work through Checklist
 Text To **Task**
 + blog: aipersonalisation.com - AI personalisation -
@@ -199,15 +199,57 @@ Human sensor: Eye, Ear
 + Voice To **Command**
 
 + teleoperator.net - hybrid communication asistant
-  + cameramind.com - cameramind
-  + cameraMonit.com  - cameraMonit
+  + cameramind.com - cameramind  
   + vocamera.com - vocamera
     + VoCoCam.com - VoCoCam      
+
     
 
+### Search Engine
+
+Data Visualisation, elastic search
++ browseek
++ browseen
++ publiczne, archiwalne dane dane
++ whoisarch.com - dns changes on whois    
+
+Data processing, Elastic Search
 
 
-     
+
+## Camera Monitoring
+
+korzyści:
++ lokalna sieć
++ monitoring audio, video
++ integracja email
+
+usługi:
++ cameraMonit.com  - cameraMonit
+
+
+
+### Infra Monitoring,
+
++ lokalna sieć
++ wybrane usługi w internecie
++ logi z serwerów
++ dane z usług
++ archiwalne dane
++ procesowania danych historycznych
+
+
++ mulitsitemap -structure of websitest
++ webpageshot - screenshosts
++ inframonit.com - server logs, 
+
+
+### Infra Management
+
+Task Interface    
+  + Promagen
+  + apiterminal      
+
 
 ---
 
@@ -236,10 +278,7 @@ Service = Working Software = Infra + Code
   + Mapigration - mapping of Infra objects
   + Infrash - shell scripts to build the environment based on mapigration        
   + ? infreck.com
-  + mulitsitemap -structure of websitest
-  + webpageshot - screenshosts
-  + inframonit.com - server logs, 
-  + whoisarch.com - dns changes on whois
+
 
 
 
@@ -304,14 +343,6 @@ Software Integration.
 + dslFunc
 
 
-### Interface
-
-Data Visualisation, elastic search
-
-+ browseen
-+ browseek
-  + Promagen
-  + apiterminal
 
 
 
