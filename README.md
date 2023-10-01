@@ -132,18 +132,12 @@ Below is an example of what the code might look like. Please note that this code
 
 ```mermaid
 graph LR
-	Develop[Develop] --> Build[Build]
-	Build --> Deploy[Deploy]
-	Deploy --> Monitor[Monitor]
-	Monitor --> Manage[Manage]
+	Develop[Develop Code] --> Build[Build Code]
+	Build --> Deploy[Deploy Software]
+	Deploy --> Monitor[Monitor Service]
+	Monitor --> Manage[Manage Infrastructure]
 	Manage --> Solution[Business Solution]
 
-	Develop --> |Writing source code in a specific programming language| Code[Code]
-	Build --> |Compiling the source code and generating executable files or libraries| Compiled[Compiled Code]
-	Deploy --> |Deploying the built code to the appropriate enviroment(s)| Deployed[Deployed Code]
-	Monitor --> |Overseeing performance, availability, and issues| Monitored[Monitored Infrastructure]
-	Manage --> |Scaling resources, patching and updating software, managing access, ensuring security and compliance| Managed[Managed Infrastructure]
-	Solution --> |A functional software-based product that solves business problem and meets customer needs| Final[Final Business Solution]
 ```
 
 
