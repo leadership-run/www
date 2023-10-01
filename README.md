@@ -49,7 +49,7 @@ By combining both Human-Centric and Software-Centric approaches, we ensure that 
 
 The stages from basic conditions to a full-formed business solution:
 
-### Development Environment = Tech Stack + Code Standards + Tools
+### Tech Conditions = Tech Stack + Code Standards + Tools
 + This encompasses the selection of languages, frameworks, and tools used for development, as well as the standards and best practices for writing code.
 
 ### Source Code = Tech Conditions + Developer Expertise + Business Requirements
@@ -91,39 +91,46 @@ The stages from basic conditions to a full-formed business solution:
 + Bring Revenue
 + A business solution not only solves a need but also brings value to the business, such as increasing efficiency, reducing costs, or creating new revenue opportunities.
  
+---
 
-
-# SDLC
 
 ### Develop Source Code
-Develop: This is the first step in transforming an idea into a software business solution. The process starts with writing the source code, which involves translating business requirements into a programming language. Developers use integrated development environments (IDEs) and development frameworks to write, test, and debug the code.
++ This is the first step in transforming an idea into a software business solution. The process starts with writing the source code, which involves translating business requirements into a programming language. Developers use integrated development environments (IDEs) and development frameworks to write, test, and debug the code.
 
 
 ### Build Machine Code
-Build: This step involves compiling the source code and generating executable files or libraries that can be deployed. Build tools like Maven, Gradle, or Make are used to automate this process and manage dependencies.
++ This step involves compiling the source code and generating executable files or libraries that can be deployed.
++ Build tools like Maven, Gradle, or Make are used to automate this process and manage dependencies.
 
-### Test Service
-Testing is the process of evaluating a system or component during or at the end of the development process to determine whether it satisfies the specified requirements. It helps find bugs and ensure that the intended logic for the solution is working correctly.
+### Test
+Testing is the process of evaluating a system or component during or at the end of the development process to determine whether it satisfies the specified requirements. 
+It helps find bugs and ensure that the intended logic for the solution is working correctly.
 
 ### Deploy
-Once the code is built, it needs to be deployed to the appropriate computing environments. This can involve deploying to physical servers, virtual machines, containers, or cloud platforms. Infrastructure-as-Code (IaC) tools like Terraform or configuration management tools like Ansible are utilized to automate and ensure consistent deployments.
- Deployment refers to all the processes involved in getting new software or hardware up and running properly in its environment, including installation, configuration, running, testing, and making necessary changes. This will usually be performed on different environments from development to staging and then production.
+Once the code is built, it needs to be deployed to the appropriate computing environments. 
+This can involve deploying to physical servers, virtual machines, containers, or cloud platforms. Infrastructure-as-Code (IaC) tools like Terraform or configuration management tools like Ansible are utilized to automate and ensure consistent deployments.
+Deployment refers to all the processes involved in getting new software or hardware up and running properly in its environment, including installation, configuration, running, testing, and making necessary changes. 
+This will usually be performed on different environments from development to staging and then production.
 
-### Monitor
-After deployment, it is crucial to monitor the application and infrastructure to gain insights into performance, availability, and issues. Monitoring tools such as Prometheus, Grafana, or ELK Stack are used to collect and visualize metric and log data, enabling proactive management and troubleshooting.
+### Monitor Service
+After deployment, it is crucial to monitor the application and infrastructure to gain insights into performance, availability, and issues.
+Monitoring tools such as Prometheus, Grafana, or ELK Stack are used to collect and visualize metric and log data, enabling proactive management and troubleshooting.
 Monitoring
-After the software is deployed and operational, monitoring activities take place to ensure the application's uptime and performance meet the expected levels. The monitoring can notify about any errors that crop up with the system in real time.
+After the software is deployed and operational, monitoring activities take place to ensure the application's uptime and performance meet the expected levels. 
+The monitoring can notify about any errors that crop up with the system in real time.
 
-### Manage
-Managing the infrastructure involves tasks like scaling resources, patching and updating software, managing access and security controls, and ensuring compliance with industry standards. Infrastructure management tools like Kubernetes, Puppet, or Chef streamline these tasks and automate maintenance activities.
+### Manage Infrastructure
+Managing the infrastructure involves tasks like scaling resources, patching and updating software, managing access and security controls, and ensuring compliance with industry standards. 
+Infrastructure management tools like Kubernetes, Puppet, or Chef streamline these tasks and automate maintenance activities.
 
-## Business Solution
- Business Solution: Finally, the combination of developed code, deployed code to infrastructure, and effective management results in a functional business solution. 
- This solution could be a web application, a mobile app, an API service, or any other software-based product that solves a specific business problem and meets customer needs.
+### Business Solution
++ Business Solution: Finally, the combination of developed code, deployed code to infrastructure, and effective management results in a functional business solution. 
++ This solution could be a web application, a mobile app, an API service, or any other software-based product that solves a specific business problem and meets customer needs.
 
 Eventually, with a combination of the steps above, the developed code turns into a business solution that helps solve a specific problem or address a business need. This solution, while in operation, can still undergo, refinement, maintenance and various iterations as needed to continue to meet business requirements effectively in the changing environment.
 Feedback & Iterations
-Feedback is collected about the software's performance, user experience, and more. Based on this feedback, further iterations and improvements can be made to the software to better meet user needs and business goals.
+Feedback is collected about the software's performance, user experience, and more. 
+Based on this feedback, further iterations and improvements can be made to the software to better meet user needs and business goals.
 
 
 
