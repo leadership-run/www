@@ -50,14 +50,13 @@ Infrastructure Centric
 ### Software
 Operation Centric
 
-+ Development
 + Develop
 + Deploy
 + Monitor 
 
 
 ### Sourcecode
-Sourcecode centric
+Development centric
 
 + libraries
 + interfaces
