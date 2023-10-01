@@ -34,21 +34,22 @@ By combining both Human-Centric and Software-Centric approaches, we ensure that 
 
 ### Solution
 Human Centric
+
 + learn
 + support
 + work
 
 
-
 ### Service
-
 Infrastructure Centric
+
 + Manage
 + Operate
 
  
 ### Software
 Operation Centric
+
 + Development
 + Develop
 + Deploy
@@ -56,8 +57,8 @@ Operation Centric
 
 
 ### Sourcecode
-
 Sourcecode centric
+
 + libraries
 + interfaces
 + API communication
@@ -65,11 +66,12 @@ Sourcecode centric
 
 
 ### Conditions
+Idea centric
 
-Standards
-Patterns
-Community
-
++ Standards
++ Patterns
++ Community
++ Research
 
 
 ## Table
