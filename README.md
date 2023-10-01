@@ -222,6 +222,10 @@ Publiczne:
 
 
 ##### browseek.com
+pricing.
+roadmap.
+docs.
+www.
 - Płatne, on demand, online 10USD/rok
 
 Prywatne i online:
