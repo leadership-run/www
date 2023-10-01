@@ -57,6 +57,7 @@ Operation Centric
 
 ### Sourcecode
 Development centric
+Community and Code Integration 
 
 + libraries
 + interfaces
@@ -69,7 +70,6 @@ Idea centric
 
 + Standards
 + Patterns
-+ Community
 + Research
 
 
@@ -249,9 +249,16 @@ Software = Infra + Code
 
 ---
 
-    
+# Sourcecode
 
-# Conditions
+Development centric
+
++ Community
++ libraries
++ interfaces
++ API communication
++ SDK integration
+
 
 Source-code Centric Solutions
 
@@ -287,7 +294,27 @@ Data Visualisation, elastic search
 
 
 
-# techstack
+
+---    
+
+
+### Conditions
+
+
+# Conditions
+Idea centric by Research 
+
++ Standards
++ Patterns
++ Community
+
+
+
+
+### techstack
+
+
+### patterns
 
 
 ### Standards
