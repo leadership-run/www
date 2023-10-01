@@ -2,29 +2,113 @@
 
 In our organization, we are working on two key layers: **Human**-Centric Solutions and **Software**-Centric Solutions. 
 
-Human-Centric Solutions: 
+### Human-Centric Solutions: 
 This layer puts human needs, experiences, and interactions at the forefront. 
 We aim to understand the challenges and aspirations of people and design solutions that cater to their specific requirements. 
 Our approach focuses on user research, intuitive interfaces, ease of use, and enhancing overall user satisfaction.
 
-Software-Centric Solutions:
+### Software-Centric Solutions:
 This layer centers around developing robust and scalable software solutions to address complex problems. 
 We leverage cutting-edge technologies, programming languages, and software engineering principles to build efficient and reliable systems. 
 Our focus lies in developing advanced algorithms, data processing, automation, and optimization to deliver innovative software-centric solutions.
 
+### Infrastructure Centric Solutions:
+Refer to technologies or strategies that focus on managing and optimizing the underlying physical and virtual infrastructure.
+These solutions aim to enhance the availability, performance, security, and manageability of IT infrastructure components.
+
 By combining both Human-Centric and Software-Centric approaches, we ensure that our solutions not only meet functional requirements but also provide an exceptional user experience.
 
+
+## CORE
+
++ Solutions = Needs + Services
+  + Services = Operations + Software
+    + Software = Infra + Code
+      + Code = human + Conditions
+        + Conditions = Standards + techstack
+
+
+
+## Solutions, Services, Software, Conditions
+
+### Solutions
+Human Centric
++ learn
++ support
++ work
+
+
+
+### Infrastructure
+Service Centric
++ Manage
++ Operate
+
+ 
+### Software
++ Develop
++ Deploy
++ Monitor 
+
+
+### Conditions
+Standards
+
+Patterns
+
+Source-code:
++ libraries
++ interfaces
++ API communication
++ SDK integration
+
+
+
+## Table
+
+|   Develop   |   Deploy   |   Monitor   |   Manage   |
+|-------------|------------|-------------|------------|
+| Code        | Build      | Log         | Administer |
+| Test        | Release    | Performance | Budget     |
+| Debug       | Configure  | Security    | Change     |
+| Collaborate | Automate   | Availability| Compliance |
+| Version     | Orchestrate| Errors      | Audit      |
 
 
 # Human Centric Solutions
 
 Solutions: Services Driven Approach
 
-### Newsletter, Blog, News
+Transactions:
++ security
++ integration
++ management
++ payments
++ communication
+
+Exchange:
++ Identity
++ Experience
++ Emotion
++ Data
+
+Interface:
++ Voice
++ Text
++ Video
+
+Function:
++ Teacher
++ Assistant
++ Worker
+
+  
+    
+
+### Information, Newsletter, Blog, News
 
 + public org: softreck.com - CEO - strategy, businesss side of projects 
 + news: researcher.pl - researcher - Near Future
-
 + private:
   + communication
   + contracts
@@ -32,7 +116,7 @@ Solutions: Services Driven Approach
   + CFO
     
 
-### Human Integration/Interface
+### Human Interface and Integration
 
 + wetware.dev - wetware - Human Integration
   + coboarding.com - co onboarding - Identity Transfer
@@ -85,14 +169,64 @@ Text To **Task**
 ---
 
 
-# Infrastructure Centric Solutions
 
-+ Operations Driven Approach
+
+
+
+# Services Centric Solutions
+
+  
+Services: Operations Driven Approach
+
+Service = Working Software = Infra + Code
+
+
+### Monitoring
+
++ Speech & Human Integration
++ Infra & Human Integration
++ Text To **Command**
++ Voice To **Command**
+
++ moniTalk.com - Voice Command Communication 
+  + Mapigration - mapping of Infra objects
+  + Infrash - shell scripts to build the environment based on mapigration        
+  + ? infreck.com
+  + mulitsitemap -structure of websitest
+  + webpageshot - screenshosts
+  + inframonit.com - server logs, 
+  + whoisarch.com - dns changes on whois
+
+### Management
+
++ askdomainer.com - Ask Domainer - name it! - Network of Domains
++ parkingomat.com, UI for infra
++ dynapsys.com
+  + recordns.com - DNS records management
+
+
+### Deployment.
+
++ deploymat.com - marketplace
+
+
+
++ DevOps
++ NetOps
+  
+---
+
+
+# Software Centric Solutions
+
+Services: Operations Driven Approach
+
+Software = Infra + Code
 
 + DevOps
 + NetOps
 
-
+  
 ### Development. Text To Service
 
 + blog: onepersonsaas.com - One Person SaaS - Automate Yourself
@@ -104,62 +238,36 @@ Text To **Task**
           + jloads
      
 
-
-### Deployment.
-
-+ deploymat.com - marketplace
-  + apiDSL
-  + apiRPC
-  + apiMacro
-  + dslFunc
-    
-
-### Monitoring
-
-+ Speech & Human Integration
-+ Infra & Human Integration
-+ Text To **Command**
-+ Voice To **Command**
-
-+ moniTalk.com - Voice Command Communication 
-  + Mapigration - mapping of Infra objects
-  + Infrash - shell scripts to build the environment based on mapigration      
-
-
-### Management
-
-+ askdomainer.com - Ask Domainer - name it! - Network of Domains
-+ parkingomat.com, UI for infra
-+ dynapsys.com
-  + recordns.com - DNS records management
-
-
-
 ---
+
     
 
-# Software Centric Solutions
+# Conditions
 
-+ Sourcode Driven Approach
+Source-code Centric Solutions
+
+Development: Sourcode Driven Approach
+
 + blog: platformengineer.net - DevOps, NetOps  News
 + development department: softreck.dev - CTO - technical side of project
 
   
-### Community.
+### Community
 
 Software Integration.
+
 + DSL - Domain-Specific language.
   
 + apifoundation.com - open source community      
-  + apiDSL
-  + apiMacro
-  + apiRPC
-  + apiSQL
-  + dslFunc
 
 
+### Functions
 
-### Data Interface
++ apiSQL
++ dslFunc
+
+
+### Interface
 
 Data Visualisation, elastic search
 
@@ -169,15 +277,17 @@ Data Visualisation, elastic search
   + apiterminal
 
 
-### Infra Monitoring. 
 
-Big Data:
-? infreck.com
-+ mulitsitemap -structure of websitest
-+ webpageshot - screenshosts
-+ inframonit.com - server logs, 
-+ whoisarch.com - dns changes on whois
+# techstack
 
+
+### Standards
+
++ MetaModule.net
++ DSL
++ apiDSL
++ apiMacro
++ apiRPC
 
 
 
