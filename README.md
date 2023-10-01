@@ -207,18 +207,6 @@ Human sensor: Eye, Ear
 
 
 
-### Service Market
-
-#### Development. Text To Service
-
-+ blog: onepersonsaas.com - One Person SaaS - Automate Yourself
-+ SaaS: saasisking.com - SaaS is King - Unattended Sales      
-  + oneday.run 
-    + dialogware.com - dialog ware - Text To Software
-      + dialogSync.com - dialog sync -  
-        + webstream.com - web stream - Application Streaming  
-          + jloads
-
      
 
 ---
@@ -230,6 +218,12 @@ Human sensor: Eye, Ear
 Services: Operations Driven Approach
 Service = Working Software = Infra + Code
 
+## Per Hour:
++ DevOps
++ NetOps
+
+
+## SaaS
 
 ### Monitoring
 
@@ -247,22 +241,31 @@ Service = Working Software = Infra + Code
   + inframonit.com - server logs, 
   + whoisarch.com - dns changes on whois
 
-### Management
+
+
+
+### Infra Management
 
 + askdomainer.com - Ask Domainer - name it! - Network of Names
-+ parkingomat.com, UI for infra
-+ dynapsys.com
-  + recordns.com - DNS records management
++ FaaS.ovh - function marketplace
++ deploymat.com - app - marketplace
+  + parkingomat.com, UI for infra
+    + dynapsys.com
+      + recordns.com - DNS records management
 
 
-### Deployment.
 
-+ deploymat.com - marketplace
+### Service Market
 
-+ DevOps
-+ NetOps
+Development. Text To Service
 
-  
++ blog: onepersonsaas.com - One Person SaaS - Automate Yourself
++ SaaS: saasisking.com - SaaS is King - Unattended Sales      
+  + oneday.run 
+    + dialogware.com - dialog ware - Text To Software
+      + dialogSync.com - dialog sync -  
+        + webstream.com - web stream - Application Streaming  
+          + jloads 
 
 
 ---
