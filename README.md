@@ -181,6 +181,7 @@ Automate Tasks through Sentences
   + poloshell.com
   + pologos.com
 
+
 ### Worker
 
 Automate Work through Checklist
@@ -208,11 +209,25 @@ Human sensor: Eye, Ear
 ### Search Engine
 
 Data Visualisation, elastic search
-+ browseek
-+ browseen
-+ publiczne, archiwalne dane dane
-+ whoisarch.com - dns changes on whois    
+Software:
++ apiMACRO
++ apiRPC
 
+##### browseen.com
+- Darmowe
+  
+Publiczne:
++ archiwalne dane WHOIS, DNS
++ whoisarch.com - dns changes on whois
+
+
+##### browseek.com
+- Płatne, on demand, online 10USD/rok
+
+Prywatne i online:
++ Skaner portfolio z API:
+  + gitlab
+  + githab
 Data processing, Elastic Search
 
 
