@@ -19,6 +19,8 @@ These solutions aim to enhance the availability, performance, security, and mana
 By combining both Human-Centric and Software-Centric approaches, we ensure that our solutions not only meet functional requirements but also provide an exceptional user experience.
 
 
+## Organisation
+
 ### Information, Newsletter, Blog, News
 
 + public org: softreck.com - CEO - strategy, businesss side of projects 
@@ -30,15 +32,19 @@ By combining both Human-Centric and Software-Centric approaches, we ensure that 
   + CFO
 
 
-## Framework
+### Framework
 
 + Solutions = Needs + Services
   + Services = Operations + Software
     + Software = Infra + Code
       + SourceCode = Community + Conditions
         + Conditions = Standards + Techstack
-          
-## Human Task-Flow
+
+
+
+## Customer
+
+### Human Task-Flow
 
 + Brand identity
 + Needs Specification
@@ -48,6 +54,33 @@ By combining both Human-Centric and Software-Centric approaches, we ensure that 
   + Standards
 
 
+## Solutions
+
+Transactions:
++ security
++ integration
++ management
++ payments
++ communication
+
+Exchange:
++ Identity
++ Experience
++ Emotion
++ Data
+
+Interface:
++ Voice
++ Text
++ Video
+
+Function:
++ Teacher
++ Assistant
++ Worker
+
+
+          
 
 ## Solutions, Services, Software, Conditions
 
@@ -104,37 +137,11 @@ Idea centric
 
 
 
-
 # Human Centric Solutions
 
 Solutions: Services Driven Approach
 
-Transactions:
-+ security
-+ integration
-+ management
-+ payments
-+ communication
-
-Exchange:
-+ Identity
-+ Experience
-+ Emotion
-+ Data
-
-Interface:
-+ Voice
-+ Text
-+ Video
-
-Function:
-+ Teacher
-+ Assistant
-+ Worker
-
   
-  
-
 ### Human Interface and Integration
 
 + wetware.dev - wetware - Human Integration
@@ -145,11 +152,10 @@ Function:
 
 
 ### Transactions
-
 Files & Human Integration.
 
 Transactions:
-+ Cointracts
++ Contracts
 + File Exchange,
 + Files To **Person**
 
@@ -161,7 +167,8 @@ Transactions:
     + docutan
 
 
-### Assistant. Vision & Voice
+### Assistant
+Vision & Voice
 
 Camera, Speech for Human Integration. 
 Human sensor: Eye, Ear 
@@ -175,7 +182,8 @@ Human sensor: Eye, Ear
     + VoCoCam.com - VoCoCam      
     
 
-### Worker. Automate Task.
+### Worker
+Automate Task.
 
 Text To **Task**
 + blog: aipersonalisation.com - AI personalisation -
@@ -185,8 +193,8 @@ Text To **Task**
       + pologos.com 
 
 
----
 
+---
 
 
 
@@ -225,8 +233,6 @@ Service = Working Software = Infra + Code
 ### Deployment.
 
 + deploymat.com - marketplace
-
-
 
 + DevOps
 + NetOps
