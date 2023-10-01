@@ -1,5 +1,7 @@
 # [roadmap.softreck.com](http://roadmap.softreck.com)
 
++ [SDLC](SDLC.md)
+
 In our organization, we are working on two key layers: **Human**-Centric Solutions and **Software**-Centric Solutions. 
 
 ### Human-Centric Solutions: 
@@ -160,6 +162,34 @@ Transactions:
     + docutan
 
 
+### Process Automation
+Automate Tasks through Sentences
++ Text To **Command**
+
+[edichat.com](http://www.edichat.com)
++ api integrations, sources
+  + ssh
+  + browser
+  + email
++ channel communications
+  + chat: telegram, signal
++ Format:
+  + Sentences 
+  + apiMacro - YAML scenario written
+  + apiDSL - DSL language
++ Software
+  + poloshell.com
+  + pologos.com
+   
+
+### Worker
+Automate Work through Checklist
+Text To **Task**
++ blog: aipersonalisation.com - AI personalisation -
++ SaaS: [gaiann.com - Personal worker to automate PC-based tasks](https://www.gaiann.com/)  
+SaaS based on edichat.com with: audio and video extensions
+   
+          
 ### Assistant
 Vision & Voice
 
@@ -175,16 +205,6 @@ Human sensor: Eye, Ear
     + VoCoCam.com - VoCoCam      
     
 
-### Worker
-Automate Task.
-
-Text To **Task**
-+ blog: aipersonalisation.com - AI personalisation -
-+ SaaS: [gaiann.com - Personal worker to automate PC-based tasks](https://www.gaiann.com/)
-  + edichat.com
-    + poloshell.com
-      + pologos.com 
-
 
 
 ### Service Market
@@ -198,6 +218,7 @@ Text To **Task**
       + dialogSync.com - dialog sync -  
         + webstream.com - web stream - Application Streaming  
           + jloads
+
      
 
 ---
