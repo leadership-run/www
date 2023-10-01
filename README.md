@@ -235,7 +235,7 @@ Service = Working Software = Infra + Code
 
 ### Management
 
-+ askdomainer.com - Ask Domainer - name it! - Network of Domains
++ askdomainer.com - Ask Domainer - name it! - Network of Names
 + parkingomat.com, UI for infra
 + dynapsys.com
   + recordns.com - DNS records management
