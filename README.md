@@ -19,10 +19,16 @@ These solutions aim to enhance the availability, performance, security, and mana
 By combining both Human-Centric and Software-Centric approaches, we ensure that our solutions not only meet functional requirements but also provide an exceptional user experience.
 
 
-+ Brand identity
-+ Needs Specification
-+ Solutions Documentation
-+ Schema
+### Information, Newsletter, Blog, News
+
++ public org: softreck.com - CEO - strategy, businesss side of projects 
++ news: researcher.pl - researcher - Near Future
++ private:
+  + communication
+  + contracts
+  + platform
+  + CFO
+
 
 ## Framework
 
@@ -31,11 +37,19 @@ By combining both Human-Centric and Software-Centric approaches, we ensure that 
     + Software = Infra + Code
       + SourceCode = Community + Conditions
         + Conditions = Standards + Techstack
+          
+## Human Task-Flow
+
++ Brand identity
++ Needs Specification
++ Learning
+  + Solutions Documentation
+  + Schema Definition
+  + Standards
 
 
 
 ## Solutions, Services, Software, Conditions
-
 
 ### Solution
 Human Centric
@@ -90,6 +104,7 @@ Idea centric
 
 
 
+
 # Human Centric Solutions
 
 Solutions: Services Driven Approach
@@ -118,18 +133,7 @@ Function:
 + Worker
 
   
-    
-
-### Information, Newsletter, Blog, News
-
-+ public org: softreck.com - CEO - strategy, businesss side of projects 
-+ news: researcher.pl - researcher - Near Future
-+ private:
-  + communication
-  + contracts
-  + platform
-  + CFO
-    
+  
 
 ### Human Interface and Integration
 
