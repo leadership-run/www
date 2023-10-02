@@ -207,21 +207,29 @@ Human sensor: Eye, Ear
     
 
 ### Search Engine
-
+browseen.com
+- Darmowe - przeglądanie i propzycje
+- Płatne - asystent do przeprowadzenia optymalizacji infry
+  - RODO
+  - Cookies
+  - TLS
+  - zmiana providera, kosztów
+  - oprogramowanie bazujace na Faas
+  
 Data Visualisation, elastic search
 Software:
 + apiMACRO
 + apiRPC
 
-##### browseen.com
-- Darmowe
+
   
 Publiczne:
 + archiwalne dane WHOIS, DNS
 + whoisarch.com - dns changes on whois
 
 
-##### browseek.com
+
+## browseek.com
 pricing.
 roadmap.
 docs.
