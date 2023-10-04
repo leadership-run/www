@@ -343,6 +343,15 @@ Development. Text To Service
           + jloads 
 
 
+
+### Software Distribution
+
+for many sofwtare marketplaces for WHMCS, TrueChart, Docker, ...
+
+
+
+
+
 ---
 
 # Software
