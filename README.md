@@ -206,9 +206,21 @@ Human sensor: Eye, Ear
 
     
 
-### Search Engine
-browseen.com
-- Darmowe - przeglądanie i propzycje
+### [Browseen - Search Engine for Service Imporvement](http://wwww.browseen.com)
+
++ [github browseen](https://github.com/browseen)
+
+#### Darmowe - przeglądanie i propzycje
+ 
+Publiczne:
++ archiwalne dane WHOIS, DNS
++ whoisarch.com - dns changes on whois
+
+
+
+
+#### Pricing
+
 - Płatne - asystent do przeprowadzenia optymalizacji infry
   - RODO
   - Cookies
@@ -216,20 +228,7 @@ browseen.com
   - zmiana providera, kosztów
   - oprogramowanie bazujace na Faas
   
-Data Visualisation, elastic search
-Software:
-+ apiMACRO
-+ apiRPC
-
-
-  
-Publiczne:
-+ archiwalne dane WHOIS, DNS
-+ whoisarch.com - dns changes on whois
-
-
-
-## browseek.com
+(browseek.com)
 pricing.
 roadmap.
 docs.
@@ -241,6 +240,16 @@ Prywatne i online:
   + gitlab
   + githab
 Data processing, Elastic Search
+
+#### Tech stack
+
+Data Visualisation, elastic search
+Software:
++ apiMACRO
++ apiRPC
+
+
+
 
 
 
