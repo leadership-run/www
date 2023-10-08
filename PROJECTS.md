@@ -73,6 +73,30 @@ Human sensor: Eye, Ear
 
     
 
+
+
+
+---
+
+
+
+
+
+# Services Centric Solutions
+
+Services: Operations Driven Approach
+Service = Working Software = Infra + Code
+
+## Per Hour:
++ DevOps
++ NetOps
+
+
+## SaaS
+
+
+
+
 ### Search Engine - [Browseen - Search Engine for Service Improvement](http://www.browseen.com)
 
 + [github browseen](https://github.com/browseen)
@@ -163,21 +187,6 @@ Task Interface
   + apiterminal      
 
 
----
-
-
-
-# Services Centric Solutions
-
-Services: Operations Driven Approach
-Service = Working Software = Infra + Code
-
-## Per Hour:
-+ DevOps
-+ NetOps
-
-
-## SaaS
 
 ### Monitoring
 
@@ -206,7 +215,7 @@ Service = Working Software = Infra + Code
 
 
 
-### Service Market
+### Service Market/Provider  [one day run](http://www.onedayrun.com)
 
 Development. Text To Service
 
