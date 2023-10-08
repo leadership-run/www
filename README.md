@@ -1,6 +1,8 @@
 # [roadmap.softreck.com](http://roadmap.softreck.com)
 
 + [SDLC](SDLC.md)
++ [PROJECTS](PROJECTS.md)
+  
 
 In our organization, we are working on two key layers: **Human**, **Software** and **Infrastructure** -Centric Solutions. 
 
@@ -131,8 +133,6 @@ Idea centric
 | Version     | Orchestrate| Errors      | Audit      |
 
 
-## [PROJECTS](PROJECTS.md)
-  
 ---
 
 + [edit](https://github.com/softreck-com/roadmap/edit/main/README.md)
