@@ -49,7 +49,7 @@ Automate Tasks through Sentences
   + pologos.com
 
 
-### AI Worker - [gaiann.com - Personal worker to automate PC-based tasks](https://www.gaiann.com/)  
+### Task Automation - [Gaiann - Personal worker to automate PC-based tasks](https://www.gaiann.com/)  
 
 Automate Work through Checklist
 Text To **Task**
@@ -73,7 +73,7 @@ Human sensor: Eye, Ear
 
     
 
-### [Browseen - Search Engine for Service Imporvement](http://www.browseen.com)
+### Search Engine - [Browseen - Search Engine for Service Improvement](http://www.browseen.com)
 
 + [github browseen](https://github.com/browseen)
 
@@ -86,7 +86,7 @@ Publiczne:
 + whoisarch.com - dns changes on whois
 
 
-### Service Management - Parkingomat 
+### Service Management - [Parkingomat](http://www.parkingomat.com)
 
 
 
