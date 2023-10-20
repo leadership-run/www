@@ -28,6 +28,26 @@ Transactions:
     + docutan
 
 
+### Encrypted Finances - [Fin Officer](http://www.finofficer.com)
+
++ sent documents
+  + by months
+    + local:
+      + html -> zip in browser
+      + html multipart encrypted
+    + remote:
+      + upload TLS
++ reports per:
+  + Month
+  + Quarter
+  + Year
+
++ automatation:
+  + download emails attachements
+  + download by API 
+  + manual through veridock transaction
+  
+
 ### Process Automation - [Edi Chat](http://www.edichat.com)
 
 Automate Tasks through Sentences
@@ -95,7 +115,9 @@ Service = Working Software = Infra + Code
 ## SaaS
 
 
+### Digital Twin Generator
 
+based on metamodule.org
 
 ### Search Engine - [Browseen - Search Engine for Service Improvement](http://www.browseen.com)
 
@@ -294,13 +316,13 @@ Conditions driven Standards
 + plainedit
 
 
-### Standards
+### Languages
 
-+ MetaModule.net
-+ DSL
-+ apiDSL
-+ apiMacro
-+ apiRPC
++ DSL local commmand language - apiDSL.com
+
+### Services
+
++ FaaS services - apiRPC.com
 
 
 
@@ -311,12 +333,11 @@ Conditions driven Standards
 
 
 
-### Schema
+### Digital Twin
 
-+ ndof
-+ apirpc
-+ apidsl
-
++ App, env Definition - apiMacro.com
++ Data Multi Format Specification - ndof.org 
++ Module Definition - MetaModule.org
 
 
 
