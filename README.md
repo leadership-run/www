@@ -136,4 +136,4 @@ Idea centric
 ---
 
 + [edit](https://github.com/softreck-com/roadmap/edit/main/README.md)
-+ [github](https://github.com/softreck-com/roadmap/
++ [github](https://github.com/softreck-com/roadmap/)
