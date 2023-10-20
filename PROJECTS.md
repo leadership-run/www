@@ -78,8 +78,9 @@ Text To **Task**
 
    
           
-### Assistant
-Vision & Voice
+### Camera Assistant - [do.camera](http://www.do.camera)
+
+Vision & Voice Controller
 
 Camera, Speech for Human Integration. 
 Human sensor: Eye, Ear 
