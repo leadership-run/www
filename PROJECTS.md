@@ -317,3 +317,10 @@ Conditions driven Standards
 + apirpc
 + apidsl
 
+
+
+
+
+---
+
++ [edit](https://github.com/softreck-com/roadmap/edit/main/PROJECTS.md)
