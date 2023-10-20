@@ -69,18 +69,9 @@ Automate Tasks through Sentences
   + pologos.com
 
 
-### Task Automation - [Gaiann - Personal worker to automate PC-based tasks](https://www.gaiann.com/)  
 
-Automate Work through Checklist
-Text To **Task**
-+ blog: aipersonalisation.com - AI personalisation -
-+ SaaS based on edichat.com with: audio and video extensions
 
-   
-          
-### Camera Assistant - [do.camera](http://www.do.camera)
-
-Vision & Voice Controller
+### Vision Assistant - [do.camera](http://www.do.camera)
 
 Camera, Speech for Human Integration. 
 Human sensor: Eye, Ear 
@@ -92,6 +83,19 @@ Human sensor: Eye, Ear
   + vocamera.com - vocamera
     + VoCoCam.com - VoCoCam      
 
+
+
+
+### Task Automation - [Gaiann - Personal worker to automate PC-based tasks](https://www.gaiann.com/)  
+
+Automate Work through Checklist
+Text To **Task**
++ blog: aipersonalisation.com - AI personalisation -
++ SaaS based on edichat.com with: audio and video extensions
++ Vision Assistant - do.camera
+
+   
+          
     
 
 
@@ -116,9 +120,17 @@ Service = Working Software = Infra + Code
 ## SaaS
 
 
-### Digital Twin Generator
 
-based on metamodule.org
+### Digital Twin Generator - [](http://)
+
+Based on hitorical connection and Data 
++ App, env Definition - apiMacro.com
++ Data Multi Format Specification - ndof.org 
++ Module Definition - MetaModule.org
+
+
+
+
 
 ### Search Engine - [Browseen - Search Engine for Service Improvement](http://www.browseen.com)
 
