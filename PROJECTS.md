@@ -143,7 +143,7 @@ Service = Working Software = Infra + Code
 
 
 
-### Digital Twin Generator - [](http://)
+### Digital Twin Generator - [Twinizer](http://www.twinizer.com)
 
 Based on hitorical connection and Data 
 + App, env Definition - apiMacro.com
