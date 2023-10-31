@@ -74,7 +74,7 @@ Automate Tasks through Sentences
 
 
 
-### Voice-Controlled Camera Assistant - [voco.cam](http://www.voco.cam)
+### Voice-Controlled Camera - [voco.cam](http://www.voco.cam)
 
 Camera, Speech for Human Integration. 
 + Voice To **Command**
