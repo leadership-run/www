@@ -16,27 +16,17 @@ Service = Working Software = Infra + Code
 
 
 
+### Service Market/Provider  [one day run](http://www.onedayrun.com)
 
-## Camera Monitoring - [Camera Monit](http://www.cameramonit.com)
+Development. Text To Service
 
-korzyści:
-+ lokalna sieć
-+ monitoring audio, video
-+ integracja email
++ blog: onepersonsaas.com - One Person SaaS - Automate Yourself
++ SaaS: saasisking.com - SaaS is King - Unattended Sales      
+  + oneday.run 
+    + dialogware.com - dialog ware - Text To Software
+      + dialogSync.com - dialog sync -  
+        + webstream.com - web stream - Application Streaming  
+          + jloads 
 
-usługi:
-+ cameraMonit.com  - cameraMonit
-
-
-
-### Voice-Controlled Camera - [voco.cam](http://www.voco.cam)
-
-Camera, Speech for Human Integration. 
-+ Voice To **Command**
-
-+ teleoperator.net - hybrid communication asistant
-  + cameramind.com - cameramind  
-  
-    
    
 
