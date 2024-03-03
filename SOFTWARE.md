@@ -36,6 +36,49 @@ Software Integration.
 
 
 
+### Software Distribution
+
+for many sofwtare marketplaces for WHMCS, TrueChart, Docker, ...
+
+
+
+
+
+---
+
+# Software
+
+Software Centric Solutions
+Software = Infra + Sourcecode
+Sourcecode Centric Solutions
+Development: Sourcode Driven Approach
+
++ blog: platformengineer.net - DevOps, NetOps  News
++ development department: softreck.dev - CTO - technical side of project
+
+
+### Development centric
+
++ Community
++ libraries
++ interfaces
++ API communication
++ SDK integration
+
+  
+### Community
+Software Integration.
+
++ DSL - Domain-Specific language.
+  
++ apifoundation.com - open source community      
+
+
+### Functions, libraries
+
++ apiSQL
++ dslFunc
+
 
 ### Service Market/Provider  [one day run](http://www.onedayrun.com)
 
