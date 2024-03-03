@@ -2,10 +2,10 @@
 
 + [SDLC](SDLC.md)
 + [PROJECTS](PROJECTS.md)
-+ [Human-Centric Solutions](HUMAN.md)
-+ [Software-Centric Solutions](SOFTWARE.md)
-+ [Service-Centric Solutions](SERVICE.md)
-+ [Infrastructure-Centric Solutions](INFRASTRUCTURE.md)
++ [Human-Centric Solutions - Wetware](HUMAN.md)
++ [Software-Centric Solutions - Dialogware](SOFTWARE.md)
++ [Service-Centric Solutions - SaaSisKing, CyberPolygon, DigitalTwin, Gaiann](SERVICE.md)
++ [Infrastructure-Centric Solutions - Dynapsys](INFRASTRUCTURE.md)
   
 
 In our organization, we are working on two key layers: **Human**, **Software** and **Infrastructure** -Centric Solutions. 
