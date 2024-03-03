@@ -12,6 +12,13 @@ Standards: Driven by technical and human capabilities
 + [SDLC](SDLC.md)
 
 
+### Human factor
+
++ Teleworker
++ Teleoperator
++ worksitehub
+
+
 ### Digital Twin
 
 + App, env Definition - apiMacro.com
