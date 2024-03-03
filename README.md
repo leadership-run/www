@@ -2,6 +2,7 @@
 
 + [SDLC](SDLC.md)
 + [PROJECTS](PROJECTS.md)
++ [Human-Centric Solutions: STANDARDIZATION](HUMAN.md)
   
 
 In our organization, we are working on two key layers: **Human**, **Software** and **Infrastructure** -Centric Solutions. 
@@ -126,7 +127,7 @@ Idea centric
 
 |   Develop   |   Deploy   |   Monitor   |   Manage   |
 |-------------|------------|-------------|------------|
-| Code        | Build      | Log         | Administer |
+| Code        | Build      | Log         | Administr. |
 | Test        | Release    | Performance | Budget     |
 | Debug       | Configure  | Security    | Change     |
 | Collaborate | Automate   | Availability| Compliance |
