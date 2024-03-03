@@ -2,9 +2,11 @@
 
 + [SDLC](SDLC.md)
 + [PROJECTS](PROJECTS.md)
-+ [Human-Centric Solutions - Wetware](HUMAN.md)
++ [Human-Centric Solutions - Wetware, DigitalTwin](HUMAN.md)
++ [Process-Centric Solutions - Gaiann Worker](PROCESS.md)
++ [Security-Centric Solutions - SaaSisKing, CyberPolygon](SECURITY.md)
++ [Service-Centric Solutions - SaaSisKing, CyberPolygon](SERVICE.md)
 + [Software-Centric Solutions - Dialogware](SOFTWARE.md)
-+ [Service-Centric Solutions - SaaSisKing, CyberPolygon, DigitalTwin, Gaiann](SERVICE.md)
 + [Infrastructure-Centric Solutions - Dynapsys](INFRASTRUCTURE.md)
   
 
