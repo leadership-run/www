@@ -70,18 +70,14 @@ Human sensor: Eye, Ear
 
 
 
----
-
-
-
 
 ### Digital Twin Generator - [Twinizer](http://www.twinizer.com)
-
++ digitalTwin.run
+  
 Based on hitorical connection and Data 
 + App, env Definition - apiMacro.com
 + Data Multi Format Specification - ndof.org 
 + Module Definition - MetaModule.org
-
 
 
 
@@ -123,13 +119,6 @@ Software:
 
 
 
-
-
-### Digital Twin
-
-+ App, env Definition - apiMacro.com
-+ Data Multi Format Specification - ndof.org 
-+ Module Definition - MetaModule.org
 
 
 
