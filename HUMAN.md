@@ -1,6 +1,6 @@
 # Human Centric Solutions
 
-Solutions: Process Driven Approach
+Standards: Driven by technical and human capabilities
 
 ## Menu
 + [Human-Centric Solutions - Wetware, DigitalTwin](HUMAN.md)
