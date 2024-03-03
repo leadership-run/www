@@ -1,55 +1,10 @@
-# Human Centric Solutions
+# Process Centric Solutions
 
 Solutions: Services Driven Approach
 
+   
   
-### Human Interface and Integration
-
-+ wetware.dev - wetware - Human Integration
-  + coboarding.com - co onboarding - Identity Transfer
-  + cotutorial.com - co tutorial - Experience Transfer 
-  + cosensation.com -  co sensation - Emotion Transfer
-  + codialog.com - co dialog - Data Transfer
-
-
-
-### Secure Transactions - [Veri Dock](http://wwwveridock.com)
-Files & Human Integration.
-
-Transactions:
-+ Contracts
-+ File Exchange,
-+ Files To **Person**
-
-+ SaaS: finofficer.com - Fin Officer - Encrypted Finances
-  + Service, Blog: unleaky.com - Un-Leaky - Trusted Foundation
-    + SaaS, lockerless
-    + veridock
-    + docutemp
-    + docutan
-
-
-
-### Encrypted Finances - [Fin Officer](http://www.finofficer.com)
-
-+ sent documents
-  + by months
-    + local:
-      + html -> zip in browser
-      + html multipart encrypted
-    + remote:
-      + upload TLS
-+ reports per:
-  + Month
-  + Quarter
-  + Year
-
-+ automatation:
-  + download emails attachements
-  + download by API 
-  + manual through veridock transaction
   
-
 
 ### Process Automation - [Edi Chat](http://www.edichat.com)
 
@@ -73,34 +28,6 @@ Automate Tasks through Sentences
 
 
 
-
-### Voice-Controlled Camera - [voco.cam](http://www.voco.cam)
-
-Camera, Speech for Human Integration. 
-+ Voice To **Command**
-
-+ teleoperator.net - hybrid communication asistant
-  + cameramind.com - cameramind  
-  
-    
-   
-      
-
-### Vision Assistant - [do.camera](http://www.do.camera)
-
-Camera, Speech for Human Integration. 
-Human sensor: Eye, Ear 
-+ Video To **Eye**
-+ Voice To **Command**
-
-+ teleoperator.net - hybrid communication asistant
-  + cameramind.com - cameramind  
-  + vocamera.com - vocamera
-    + VoCoCam.com - VoCoCam      
-
-
-
-
 ### Role Delegation, Process Outsourcing [sub.actor](http://www.subactor.com)
 
 Delegowanie usług, procesów, ról
@@ -118,6 +45,19 @@ Text To **Task**
 
    
           
+      
+
+### Vision Assistant - [do.camera](http://www.do.camera)
+
+Camera, Speech for Human Integration. 
+Human sensor: Eye, Ear 
++ Video To **Eye**
++ Voice To **Command**
+
++ teleoperator.net - hybrid communication asistant
+  + cameramind.com - cameramind  
+  + vocamera.com - vocamera
+    + VoCoCam.com - VoCoCam      
     
 
 
@@ -125,21 +65,6 @@ Text To **Task**
 
 ---
 
-
-
-
-
-# Services Centric Solutions
-
-Services: Operations Driven Approach
-Service = Working Software = Infra + Code
-
-## Per Hour:
-+ DevOps
-+ NetOps
-
-
-## SaaS
 
 
 
@@ -157,21 +82,6 @@ Based on hitorical connection and Data
 ### Search Engine - [Browseen - Search Engine for Service Improvement](http://www.browseen.com)
 + websearch.pl
 + [github browseen](https://github.com/browseen)
-
-
-
-#### Darmowe - przeglądanie i propzycje
- 
-Publiczne:
-+ archiwalne dane WHOIS, DNS
-+ whoisarch.com - dns changes on whois
-
-
-### Service Management - [Parkingomat](http://www.parkingomat.com)
-
-
-
-### Infrastructure Management - [Dynapsys](http://www.dynapsys.com)
 
 
 #### Pricing
@@ -205,166 +115,6 @@ Software:
 
 
 
-
-
-
-## Camera Monitoring - [Camera Monit](http://www.cameramonit.com)
-
-korzyści:
-+ lokalna sieć
-+ monitoring audio, video
-+ integracja email
-
-usługi:
-+ cameraMonit.com  - cameraMonit
-
-
-
-### Infrastructure Monitoring - [Infra Monit](http://www.inframonit.com)
-
-+ lokalna sieć
-+ wybrane usługi w internecie
-+ logi z serwerów
-+ dane z usług
-+ archiwalne dane
-+ procesowania danych historycznych
-
-
-+ mulitsitemap -structure of websitest
-+ webpageshot - screenshosts
-+ inframonit.com - server logs, 
-
-
-
-
-### Infra Management
-
-Task Interface    
-  + Promagen
-  + apiterminal      
-
-
-
-### Monitoring
-
-+ Speech & Human Integration
-+ Infra & Human Integration
-+ Text To **Command**
-+ Voice To **Command**
-
-+ moniTalk.com - Voice Command Communication 
-  + Mapigration - mapping of Infra objects
-  + Infrash - shell scripts to build the environment based on mapigration        
-  + ? infreck.com
-
-
-
-
-
-### Infra Management
-
-+ askdomainer.com - Ask Domainer - name it! - Network of Names
-+ FaaS.ovh - function marketplace
-+ deploymat.com - app - marketplace
-  + parkingomat.com, UI for infra
-    + dynapsys.com
-      + recordns.com - DNS records management
-
-
-
-### Service Market/Provider  [one day run](http://www.onedayrun.com)
-
-Development. Text To Service
-
-+ blog: onepersonsaas.com - One Person SaaS - Automate Yourself
-+ SaaS: saasisking.com - SaaS is King - Unattended Sales      
-  + oneday.run 
-    + dialogware.com - dialog ware - Text To Software
-      + dialogSync.com - dialog sync -  
-        + webstream.com - web stream - Application Streaming  
-          + jloads 
-
-
-
-### Software Distribution
-
-for many sofwtare marketplaces for WHMCS, TrueChart, Docker, ...
-
-
-
-
-
----
-
-# Software
-
-Software Centric Solutions
-Software = Infra + Sourcecode
-Sourcecode Centric Solutions
-Development: Sourcode Driven Approach
-
-+ blog: platformengineer.net - DevOps, NetOps  News
-+ development department: softreck.dev - CTO - technical side of project
-
-
-### Development centric
-
-+ Community
-+ libraries
-+ interfaces
-+ API communication
-+ SDK integration
-
-  
-### Community
-Software Integration.
-
-+ DSL - Domain-Specific language.
-  
-+ apifoundation.com - open source community      
-
-
-### Functions, libraries
-
-+ apiSQL
-+ dslFunc
-
-
-
-
-
----    
-
-
-# Ideas based on Environmental Conditions
-Idea centric by Research 
-
-Conditions driven Standards 
-
-+ Standards
-  + Schema
-  + Patterns
-
-### Documentation
-
-+ flatedit
-+ plainedit
-
-
-### Languages
-
-+ DSL local commmand language - apiDSL.com
-
-### Services
-
-+ FaaS services - apiRPC.com
-
-
-
-### techstack
-
-
-### patterns
 
 
 
