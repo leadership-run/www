@@ -13,7 +13,9 @@ Software: Services Driven Approach
 + [SDLC](SDLC.md)
 
 
-# Software
+
+## Software
+
 
 Software Centric Solutions
 Software = Infra + Sourcecode
@@ -24,49 +26,12 @@ Development: Sourcode Driven Approach
 + development department: softreck.dev - CTO - technical side of project
 
 
-### Development centric
 
-+ Community
-+ libraries
-+ interfaces
-+ API communication
-+ SDK integration
+## Development
 
-  
-### Community
-Software Integration.
-
-+ DSL - Domain-Specific language.
-  
-+ apifoundation.com - open source community      
-
-
-### Functions, libraries
-
-+ apiSQL
-+ dslFunc
-
-
-
-### Software Distribution
-
-for many sofwtare marketplaces for WHMCS, TrueChart, Docker, ...
-
-
-
-
-
----
-
-# Software
-
-Software Centric Solutions
-Software = Infra + Sourcecode
-Sourcecode Centric Solutions
-Development: Sourcode Driven Approach
-
-+ blog: platformengineer.net - DevOps, NetOps  News
-+ development department: softreck.dev - CTO - technical side of project
++ standardization
++ operations
++ cycles
 
 
 ### Development centric
@@ -109,12 +74,6 @@ Development. Text To Service
 ### Software Distribution
 
 for many sofwtare marketplaces for WHMCS, TrueChart, Docker, ...
-
-
-
-
-
-## SaaS
 
 
 
