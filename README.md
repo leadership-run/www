@@ -2,22 +2,40 @@
 
 + [SDLC](SDLC.md)
 + [PROJECTS](PROJECTS.md)
-+ [Human-Centric Solutions: STANDARDIZATION](HUMAN.md)
++ [Human-Centric Solutions](HUMAN.md)
++ [Software-Centric Solutions](SOFTWARE.md)
++ [Service-Centric Solutions](SERVICE.md)
++ [Infrastructure-Centric Solutions](INFRASTRUCTURE.md)
   
 
 In our organization, we are working on two key layers: **Human**, **Software** and **Infrastructure** -Centric Solutions. 
 
-### Human-Centric Solutions: 
+### Human-Centric Solutions:
+- Standardization
+
 This layer puts human needs, experiences, and interactions at the forefront. 
 We aim to understand the challenges and aspirations of people and design solutions that cater to their specific requirements. 
 Our approach focuses on user research, intuitive interfaces, ease of use, and enhancing overall user satisfaction.
 
+
+### Service-Centric Solutions:
+-  FaaS Marketplace
+  
+This layer centers around developing robust and scalable Services solutions to address complex problems. 
+Our focus lies in developing advanced algorithms, data processing, automation, and optimization to offer innovative software-centric solutions.
+
+
 ### Software-Centric Solutions:
+-  FaaS Modular Architecture
+
 This layer centers around developing robust and scalable software solutions to address complex problems. 
 We leverage cutting-edge technologies, programming languages, and software engineering principles to build efficient and reliable systems. 
 Our focus lies in developing advanced algorithms, data processing, automation, and optimization to deliver innovative software-centric solutions.
 
+
 ### Infrastructure Centric Solutions:
+- Faas Infrastructure, Dynapsys
+  
 Refer to technologies or strategies that focus on managing and optimizing the underlying physical and virtual infrastructure.
 These solutions aim to enhance the availability, performance, security, and manageability of IT infrastructure components.
 
