@@ -2,6 +2,14 @@
 
 Solutions: Services Driven Approach
 
+
+### Digital Twin
+
++ App, env Definition - apiMacro.com
++ Data Multi Format Specification - ndof.org 
++ Module Definition - MetaModule.org
+
+
   
 ### Human Interface and Integration
 
@@ -44,10 +52,4 @@ Conditions driven Standards
 ### patterns
 
 
-
-### Digital Twin
-
-+ App, env Definition - apiMacro.com
-+ Data Multi Format Specification - ndof.org 
-+ Module Definition - MetaModule.org
 
