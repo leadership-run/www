@@ -40,17 +40,6 @@ Service = Working Software = Infra + Code
 + NetOps
 
 
-## SaaS
-
-
-
-### Digital Twin Generator - [Twinizer](http://www.twinizer.com)
-
-Based on hitorical connection and Data 
-+ App, env Definition - apiMacro.com
-+ Data Multi Format Specification - ndof.org 
-+ Module Definition - MetaModule.org
-
 
 
 
