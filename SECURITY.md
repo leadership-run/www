@@ -2,6 +2,37 @@
 
 
 
+### Forum dyskusyjne
+monitalk.com
+- Nazwa, która sugeruje wymianę myśli i dialog między użytkownikami
+- Słowo "talk" w nazwie wyraźnie wskazuje na komunikację, co czyni ją odpowiednią dla forum dyskusyjnego.
+
+
+### Oferta komputera do przetwarzania edge computing
+
+telemonit.com
+- prefiks "tele" kojarzy się z technologią i telekomunikacją, co może sugerować zaawansowane rozwiązania technologiczne, takie jak przetwarzanie edge computing.
+
+### Usługa online w modelu SaaS
+
+do.camera
+to.camera
+- skupia się on na analizie obrazu lub monitoringu wizyjnym. 
+- Nazwy są krótkie, łatwe do zapamiętania i bezpośrednio nawiązują do działalności związanej z kamerami.
+
+### Licencja na oprogramowanie
+cameramind.com
+
+- sugerują coś więcej niż standardową obsługę kamery
+- inteligentne oprogramowanie do analizy obrazu z kamer, co pasuje do idei licencjonowania oprogramowania o zaawansowanych możliwościach.
+
+### Monitorowanie Usług
+monit.page 
+- usługi monitoringu lub jako landing page dla określonej kampanii marketingowej związanej z monitoringiem, choć nie zostało to bezpośrednio przypisane w zadaniu.
+
+
+
+
 ## Camera Monitoring - [Camera Monit](http://www.cameramonit.com)
 
 korzyści:
@@ -64,19 +95,6 @@ Task Interface
     + dynapsys.com
       + recordns.com - DNS records management
 
-
-
-### Service Market/Provider  [one day run](http://www.onedayrun.com)
-
-Development. Text To Service
-
-+ blog: onepersonsaas.com - One Person SaaS - Automate Yourself
-+ SaaS: saasisking.com - SaaS is King - Unattended Sales      
-  + oneday.run 
-    + dialogware.com - dialog ware - Text To Software
-      + dialogSync.com - dialog sync -  
-        + webstream.com - web stream - Application Streaming  
-          + jloads 
 
 
 
