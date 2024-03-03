@@ -1,7 +1,8 @@
 # [roadmap.softreck.com](http://roadmap.softreck.com)
 
 ## Menu
-+ [Human-Centric Solutions - Standardization -  Wetware, DigitalTwin](HUMAN.md)
++ [Human-Centric Solutions - Research - Wetware](HUMAN.md)
++ [Standard-Centric Solutions - Standardization - DigitalTwin](STANDARD.md)
 + [Interface-Centric Solutions - Interface - Edi.Chat, VoCo.Cam](INTERFACE.md)
 + [Process-Centric Solutions - Automation - Gaiann Worker](PROCESS.md)
 + [Service-Centric Solutions - Software Requirement - SaaSisKing](SERVICE.md)
