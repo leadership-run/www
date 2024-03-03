@@ -13,25 +13,8 @@ Infrastructure: Operation Driven Approach
 + [SDLC](SDLC.md)
 
 
-### Infra Management
+## Solutions
 
-Task Interface    
-  + Promagen
-  + apiterminal      
-
-
-
-### Monitoring
-
-+ Speech & Human Integration
-+ Infra & Human Integration
-+ Text To **Command**
-+ Voice To **Command**
-
-+ moniTalk.com - Voice Command Communication 
-  + Mapigration - mapping of Infra objects
-  + Infrash - shell scripts to build the environment based on mapigration        
-  + ? infreck.com
 
 
 
@@ -106,6 +89,22 @@ Software:
 
 
 
+### Monitoring
+
++ Speech & Human Integration
++ Infra & Human Integration
++ Text To **Command**
++ Voice To **Command**
+
++ moniTalk.com - Voice Command Communication 
+  + Mapigration - mapping of Infra objects
+  + Infrash - shell scripts to build the environment based on mapigration        
+  + ? infreck.com
+
+
+
+
+
 ### Infra Management
 
 + askdomainer.com - Ask Domainer - name it! - Network of Names
@@ -114,5 +113,15 @@ Software:
   + parkingomat.com, UI for infra
     + dynapsys.com
       + recordns.com - DNS records management
+
+
+
+
+
+### Operations
+
+Task Interface    
+  + Promagen
+  + apiterminal      
 
 
