@@ -1,12 +1,13 @@
 # [roadmap.softreck.com](http://roadmap.softreck.com)
 
 ## Menu
-+ [Human-Centric Solutions - Wetware, DigitalTwin](HUMAN.md)
-+ [Process-Centric Solutions - Gaiann Worker](PROCESS.md)
-+ [Security-Centric Solutions - CyberPolygon](SECURITY.md)
-+ [Service-Centric Solutions - SaaSisKing](SERVICE.md)
-+ [Software-Centric Solutions - Dialogware](SOFTWARE.md)
-+ [Infrastructure-Centric Solutions - Dynapsys](INFRASTRUCTURE.md)
++ [Human-Centric Solutions - Standardization -  Wetware, DigitalTwin](HUMAN.md)
++ [Interface-Centric Solutions - Interface - Edi.Chat, VoCo.Cam](INTERFACE.md)
++ [Process-Centric Solutions - Automation - Gaiann Worker](PROCESS.md)
++ [Service-Centric Solutions - Software Requirement - SaaSisKing](SERVICE.md)
++ [Software-Centric Solutions - Deployment Delivery - Dialogware](SOFTWARE.md)
++ [Infrastructure-Centric Solutions - Operations, Monitoring - Dynapsys](INFRASTRUCTURE.md)
++ [Security-Centric Solutions - Incidents Detection and Prevention - CyberPolygon](SECURITY.md)
 + [SDLC](SDLC.md)
 
 ## Solutions
