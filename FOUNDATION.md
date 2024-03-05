@@ -1,7 +1,27 @@
-# [Standard-Centric Solutions - Standardization](STANDARD.md)
+# [Standard-Centric Solutions - Standardization](FOUNDATION.md)
 
-+ Makerslab
+## Projects
+
+## Community
+
++ forties.plus
++ makerslab.info
+
+
+## Standards
++ ndof
 + MetaModule
+
+## Interface
 + DigitalTwin
 + wetware human interface
-+ 
+
+
+  
+## Desgin
+
+
+## Libraries
+
+
+
