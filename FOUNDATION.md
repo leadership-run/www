@@ -1,4 +1,4 @@
-# [Standard-Centric Solutions - Standardization](FOUNDATION.md)
+# [Standard-Centric Solutions - MODWARE Foundation](FOUNDATION.md)
 
 ## Projects
 
