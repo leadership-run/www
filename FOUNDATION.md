@@ -1,6 +1,8 @@
 # [Standard-Centric Solutions - MODWARE Foundation](FOUNDATION.md)
 
-## Projects
+Ideas based on Environmental Conditions
+Idea centric by Research 
+Conditions driven Standards 
 
 ## Community
 
@@ -9,10 +11,15 @@
 
 
 ## Standards
++ Schema
++ Patterns
+  
 + ndof
 + MetaModule
 
+
 ## Interface
+
 + DigitalTwin
 + wetware human interface
 
@@ -20,8 +27,36 @@
   
 ## Desgin
 
++ hypermodularity - book
++ hypermodular -blog
+
 
 ## Libraries
 
 
+## Projects
+
+
+
+### Documentation
+
++ flatedit
++ plainedit
+
+
+### Languages
+
++ DSL local commmand language - apiDSL.com
+
+
+### Services
+
++ FaaS services - apiRPC.com
+
+
+
+### techstack
+
+
+### patterns
 
