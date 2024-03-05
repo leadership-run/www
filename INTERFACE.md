@@ -1,9 +1,15 @@
 # [Interface-Centric Solutions - Interface - Edi.Chat, VoCo.Cam](INTERFACE.md)
 
 
-
+## text command
 + textware.org
-+ edi.chat
++ apiTerminal
+
+## audio
 + voco.cam
 + do.camera
-+ apiTerminal
+  
+## chat
++ edi.chat PROCESS
++ do.camera
+
