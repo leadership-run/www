@@ -3,7 +3,7 @@
 ## Menu
 + [Human-Centric Solutions - Research - Wetware](HUMAN.md)
 + [Standard-Centric Solutions - modware.org foundation](FOUNDATION.md)
-+ [Interface-Centric Solutions - Interface - Edi.Chat, VoCo.Cam](INTERFACE.md)
++ [Interface-Centric Solutions - Edi.Chat, VoCo.Cam, textware.org](INTERFACE.md)
 + [Process-Centric Solutions - Automation - Gaiann Worker](PROCESS.md)
 + [Service-Centric Solutions - Software Requirement - SaaSisKing](SERVICE.md)
 + [Software-Centric Solutions - Deployment Delivery - Dialogware](SOFTWARE.md)
