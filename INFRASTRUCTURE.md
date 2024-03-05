@@ -21,6 +21,9 @@ Infrastructure: Operation Driven Approach
 + domainLeak
 
 
+## modular infra
++ militairty
++ 
 
 ## Solutions
 
