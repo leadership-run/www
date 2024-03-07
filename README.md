@@ -1,10 +1,10 @@
 # [roadmap.softreck.com](http://roadmap.softreck.com)
 
 ## Menu
-+ [Human-Centric Solutions - Wetware](HUMAN.md)
++ [Human-Centric Solutions - Wetware: DigitalTwin](HUMAN.md)
 + [Foundation-Centric Solutions - MODWARE: Dialogware, textware.org](FOUNDATION.md)
-+ [Agent-Centric Solutions - services: Edi.Chat, Gaiann, do.camera](AGENT.md)
-+ [Interface-Centric Solutions - autio, video, text: VoCo.Cam](INTERFACE.md)
++ [Agent-Centric Solutions - agent services: Edi.Chat, Gaiann, do.camera, sub.actor](AGENT.md)
++ [Interface-Centric Solutions - audio, video, text: VoCo.Cam](INTERFACE.md)
 + [Process-Centric Solutions - Automation](PROCESS.md)
 + [Service-Centric Solutions - Software Requirement: SaaSisKing](SERVICE.md)
 + [Software-Centric Solutions - Deployment Delivery: Dialogware](SOFTWARE.md)
