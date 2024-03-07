@@ -1,4 +1,4 @@
-# [Standard-Centric Solutions - MODWARE Foundation](FOUNDATION.md)
+# [Foundation-Centric Solutions - MODWARE](FOUNDATION.md)
 
 + [Modware Docs](https://docs.modware.org/)
   
@@ -16,9 +16,8 @@ Conditions driven Standards
 + Schema
 + Patterns
   
-+ ndof
-+ MetaModule
-
++ ndof [NDOF - Newline Delimited Objects Format - www.ndof.org](https://www.ndof.org/)
++ MetaModule [www.metamodule.orgw](https://www.metamodule.org/)
 
 ## Interface
 
