@@ -1,4 +1,4 @@
-# [roadmap.softreck.com](http://roadmap.softreck.com)
+# [leadership.run](http://www.leadership.run)
 
 ## Menu
 + [Human-Centric Solutions - Wetware: DigitalTwin](HUMAN.md)
@@ -52,7 +52,7 @@ By combining both Human-Centric and Software-Centric approaches, we ensure that 
 
 ### Information, Newsletter, Blog, News
 
-+ public org: softreck.com - CEO - strategy, businesss side of projects 
++ public org: leadership.run - CEO - strategy, businesss side of projects 
 + news: researcher.pl - researcher - Near Future
 + private:
   + communication
@@ -160,5 +160,5 @@ Idea centric
 
 ---
 
-+ [edit](https://github.com/softreck-com/roadmap/edit/main/README.md)
++ [edit](https://github.com/leadership-run/www/edit/main/README.md)
 + [github](https://github.com/softreck-com/roadmap/)
