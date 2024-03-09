@@ -1,25 +1,51 @@
-# [Security-Centric Solutions - CyberPolygon](SECURITY.md)
+# [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring- CyberWafare.info CyberPolygon.org ](SECURITY.md)
 
 Security: Risk Driven Approach
 
    
 ## Menu
-+ [Human-Centric Solutions - Wetware, DigitalTwin](HUMAN.md)
-+ [Process-Centric Solutions - Gaiann Worker](PROCESS.md)
-+ [Security-Centric Solutions - CyberPolygon](SECURITY.md)
-+ [Service-Centric Solutions - SaaSisKing](SERVICE.md)
-+ [Software-Centric Solutions - Dialogware](SOFTWARE.md)
-+ [Infrastructure-Centric Solutions - Dynapsys](INFRASTRUCTURE.md)
+
++ [Human-Centric Solutions - Wetware: DigitalTwin](HUMAN.md)
++ [Foundation-Centric Solutions - MODWARE: Dialogware, textware.org](FOUNDATION.md)
++ [Agent-Centric Solutions - agent services: Edi.Chat, Gaiann, do.camera, sub.actor](AGENT.md)
++ [Interface-Centric Solutions - audio, video, text: VoCo.Cam](INTERFACE.md)
++ [Process-Centric Solutions - Automation](PROCESS.md)
++ [Service-Centric Solutions - Software Requirement: SaaSisKing](SERVICE.md)
++ [Software-Centric Solutions - Deployment Delivery: Dialogware](SOFTWARE.md)
++ [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](INFRASTRUCTURE.md)
++ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring- CyberWafare.info CyberPolygon.org ](SECURITY.md)
+  
 + [SDLC](SDLC.md)
 
 
 Community -> Standards -> Opensource -> Service
 
 
-### Community
+#### 
+Community
 
-Forum dyskusyjne
-+ monitalk.com
+
+#### CyberWafare.info
+reports:
++ 2024.CyberWafare.info
+
+
+#### CyberPolygon.org
+SaaS services
++ 
+
+#### incidents.info
++ newsletter
++ blog
+
+
+#### Militarity.com
++ Modular Hardware
+
+
+#### infraMonit.com
++ customer infrastructure alerts/monits and alerting on messanger
+
 
 ### Usługa online w modelu SaaS
 
@@ -114,4 +140,8 @@ Transactions:
   + download emails attachements
   + download by API 
   + manual through veridock transaction
-  
+
+
+---
+
++ [edit](https://github.com/softreck-com/roadmap/edit/main/SECURITY.md)
