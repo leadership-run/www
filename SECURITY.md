@@ -7,87 +7,45 @@ Security: Risk Driven Approach
 
 + [Human-Centric Solutions - Wetware: DigitalTwin](HUMAN.md)
 + [Foundation-Centric Solutions - MODWARE: Dialogware, textware.org](FOUNDATION.md)
-+ [Agent-Centric Solutions - agent services: Edi.Chat, Gaiann, do.camera, sub.actor](AGENT.md)
++ [Agent-Centric Solutions - agent services: TeleOperator.info Edi.Chat, Gaiann, do.camera, sub.actor](AGENT.md)
 + [Interface-Centric Solutions - audio, video, text: VoCo.Cam](INTERFACE.md)
 + [Process-Centric Solutions - Automation](PROCESS.md)
 + [Service-Centric Solutions - Software Requirement: SaaSisKing](SERVICE.md)
 + [Software-Centric Solutions - Deployment Delivery: Dialogware](SOFTWARE.md)
 + [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](INFRASTRUCTURE.md)
-+ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring- CyberWafare.info CyberPolygon.org ](SECURITY.md)
++ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring- CyberWafare.info](SECURITY.md)
   
 + [SDLC](SDLC.md)
 
 
-Community -> Standards -> Opensource -> Service
+      Community -> Standards -> Opensource -> Service
 
 
-#### 
+### 
 Community
 
 
-#### CyberWafare.info
+### CyberWafare.info
 reports:
 + 2024.CyberWafare.info
 
 
-#### CyberPolygon.org
+### CyberPolygon.org
 SaaS services
 + 
 
-#### incidents.info
+### Incidents.info
 + newsletter
 + blog
 
 
-#### Militarity.com
+### Militarity.com
 + Modular Hardware
 
 
-#### infraMonit.com
-+ customer infrastructure alerts/monits and alerting on messanger
-
-
-### Usługa online w modelu SaaS
-
-+ do.camera
-+ to.camera
-- skupia się on na analizie obrazu lub monitoringu wizyjnym. 
-- Nazwy są krótkie, łatwe do zapamiętania i bezpośrednio nawiązują do działalności związanej z kamerami.
-
-
-### Licencja na oprogramowanie
-cameramind.com
-
-- sugerują coś więcej niż standardową obsługę kamery
-- inteligentne oprogramowanie do analizy obrazu z kamer, co pasuje do idei licencjonowania oprogramowania o zaawansowanych możliwościach.
-
-
-### Monitorowanie Usług
-monit.page 
-- usługi monitoringu lub jako landing page dla określonej kampanii marketingowej związanej z monitoringiem, choć nie zostało to bezpośrednio przypisane w zadaniu.
-
-
-
-### Oferta komputera do przetwarzania edge computing
-
-telemonit.com
-- prefiks "tele" kojarzy się z technologią i telekomunikacją, co może sugerować zaawansowane rozwiązania technologiczne, takie jak przetwarzanie edge computing.
-
-
-
-## Camera Monitoring - [Camera Monit](http://www.cameramonit.com)
-
-korzyści:
-+ lokalna sieć
-+ monitoring audio, video
-+ integracja email
-
-usługi:
-+ cameraMonit.com  - cameraMonit
-
-
-
 ### Infrastructure Monitoring - [Infra Monit](http://www.inframonit.com)
+
++ customer infrastructure alerts/monits and alerting on messanger
 
 + lokalna sieć
 + wybrane usługi w internecie
@@ -100,6 +58,13 @@ usługi:
 + mulitsitemap -structure of websitest
 + webpageshot - screenshosts
 + inframonit.com - server logs, 
+
+
+### Monitorowanie Usług
+monit.page 
+- usługi monitoringu lub jako landing page dla określonej kampanii marketingowej związanej z monitoringiem, choć nie zostało to bezpośrednio przypisane w zadaniu.
+
+
 
 
 
