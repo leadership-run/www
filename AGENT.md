@@ -3,7 +3,30 @@
 Agent: Interface Driven Approach
 
     Interface DSL API Process Operation Service infrastructure
-   
+
+
+telemonit.com
+cameramonit.com
+cameraMind.com
+TeleOperator.info
+do.camera
+to.camera
+Edi.Chat
+sub.actor
+Gaiann.com
+voco.cam
+voco.camera
+voco.chat
+voco.computer
+voco.house
+voco.services
+vococamera.com
+vocochat.com
+vococomputer.com
+vocohouse.com
+vocoservices.com
+
+ 
 ## Menu
 
 + [Human-Centric Solutions - Wetware: DigitalTwin](HUMAN.md)
