@@ -158,7 +158,23 @@ Idea centric
 | Version     | Orchestrate| Errors      | Audit      |
 
 
+
+## Planowanie
+
+1. **Zarządzanie strategiczne** - proces identyfikacji długoterminowych celów, misji i wizji organizacji, a następnie formułowania i wdrażania strategii ich realizacji.
+2. **Analiza SWOT** (Strengths, Weaknesses, Opportunities, Threats) - narzędzie służące do oceny wewnętrznych i zewnętrznych aspektów firmy mogących wpłynąć na realizację strategii.
+3. **Planowanie strategiczne** - proces ustalania kierunku działań organizacji na długą metę.
+4. **Misja i wizja firmy** - formalne oświadczenie identyfikujące cel istnienia firmy (misja) oraz aspiracje dotyczące przyszłości (wizja).
+5. **Cele strategiczne** - długoterminowe cele, które organizacja zamierza osiągnąć, często poprzez realizację szeregu mniejszych, operacyjnych celów.
+6. **Strategia korporacyjna** - podejście na najwyższym poziomie, dotyczące kierunku rozwoju całej organizacji.
+7. **Strategia biznesowa** - koncentruje się na konkretnym segmencie rynku lub obszarze działalności i jak firma może najlepiej konkurować w tym kontekście.
+8. **Analiza konkurencji** - badanie strategii, sił i słabości, produktów, rynków oraz potencjału wzrostu konkurentów.
+9. **Zarządzanie zmianą** - procesy i techniki stosowane do zarządzania wprowadzaniem i kontynuacją zmian w organizacji w kontekście realizacji strategii.
+10. **KPIs (Key Performance Indicators)** - kluczowe wskaźniki wydajności oznaczające poziomy osiągnięć, które organizacja stawia sobie za cel w kontekście różnych aspektów działalności.
+
+
+
 ---
 
 + [edit](https://github.com/leadership-run/www/edit/main/README.md)
-+ [github](https://github.com/softreck-com/roadmap/)
++ [github](https://github.com/leadership-run/www/)
