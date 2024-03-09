@@ -24,22 +24,37 @@ Agent: Interface Driven Approach
 
 
 ### telemonit.com
-
-Oferta komputera do przetwarzania edge computing
 - prefiks "tele" kojarzy się z technologią i telekomunikacją, co może sugerować zaawansowane rozwiązania technologiczne, takie jak przetwarzanie edge computing.
 
 
-
 ### Camera Monitoring - [Camera Monit](http://www.cameramonit.com)
-
-korzyści:
++ push
++ email
++ sms
++ 
 + lokalna sieć
 + monitoring audio, video
 + integracja email
 
-usługi:
-+ cameraMonit.com  - cameraMonit
 
+### ML EDGE COMPUTING API [cameraMind](http://www.cameraMind.com)
+
+cameraMind jak router u operatorów telekomunikacyjnych
++ cloud
++ on premise
++ oferta komputera do przetwarzania edge computing
++ inteligentne oprogramowanie do analizy obrazu z kamer, co pasuje do idei licencjonowania oprogramowania o zaawansowanych możliwościach.
++ Licencja jednorazowa na oprogramowanie
++ Subskyrpcja na aktualizację i dopasowanie do potrzeb
+
+
+
+## [voco.camera](http://www.voco.camera)
+
++ tele operator on live video stream
++ talk.to.camera
++ live assistant on smart home systems
++ agent for cctv conversation
 
 
 
@@ -50,12 +65,6 @@ usługi:
 - skupia się on na analizie obrazu lub monitoringu wizyjnym. 
 - Nazwy są krótkie, łatwe do zapamiętania i bezpośrednio nawiązują do działalności związanej z kamerami.
 
-
-### Licencja na oprogramowanie
-cameramind.com
-
-- sugerują coś więcej niż standardową obsługę kamery
-- inteligentne oprogramowanie do analizy obrazu z kamer, co pasuje do idei licencjonowania oprogramowania o zaawansowanych możliwościach.
 
 
 ---
