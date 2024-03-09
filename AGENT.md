@@ -17,6 +17,8 @@ Agent: Interface Driven Approach
 + [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring- CyberWafare.info](SECURITY.md)
 
 
+oferowane usługi:
+monitorowanie o zdarzeniach i incydentach - [teleMonit] [cameraMonit] [cameraMind] oraz możliwość sterowania głosowego w czasie rzeczywistym [voco.services] [voco.camera] [voco.house] [voco.computer]
 
 ## telemonit
 
