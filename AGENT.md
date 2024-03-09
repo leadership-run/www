@@ -42,6 +42,14 @@ The name "Gaiann" gains a deeper significance and presents itself as a highly re
 In this light, "Gaiann" is a compelling choice for a company that prides itself on cutting-edge AI technology and wants a name that reflects its core focus and innovative spirit. The name stands out not just for what it represents in the realm of AI but also for its potential to intrigue, invite inquiries, and establish a strong brand presence in technology sectors.
 
 
+## oferta
+
+bo są dwie linie produktów: monitowanie i sterowanie
++ asynchroniczny kanał: monity na komunikatory w formie text, audio, video
++ synchroniczny kanał: video rozmowa audio + video
+
+nazwa gaiann musi być abstrakcyjna, bo nazwy usług będą generyczne
+
 oferowane usługi:
 monitorowanie o zdarzeniach i incydentach - [teleMonit] [cameraMonit] [cameraMind] oraz możliwość sterowania głosowego w czasie rzeczywistym [voco.services] [voco.camera] [voco.house] [voco.computer]
 
