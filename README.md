@@ -9,7 +9,7 @@
 + [Service-Centric Solutions - Software Requirement: SaaSisKing](SERVICE.md)
 + [Software-Centric Solutions - Deployment Delivery: Dialogware](SOFTWARE.md)
 + [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](INFRASTRUCTURE.md)
-+ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring- CyberWafare.info CyberPolygon.org ](SECURITY.md)
++ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring - Incidents.info CyberWafare.info CyberPolygon.org ](SECURITY.md)
 + [SDLC](SDLC.md)
 
 ## Solutions
