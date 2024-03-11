@@ -1,16 +1,19 @@
 # [leadership.run](http://www.leadership.run)
 
 ## Menu
-+ [Human-Centric Solutions - Wetware: DigitalTwin](HUMAN.md)
-+ [Foundation-Centric Solutions - MODWARE: Dialogware, textware.org](FOUNDATION.md)
-+ [Agent-Centric Solutions - agent services: Edi.Chat, Gaiann, do.camera, sub.actor](AGENT.md)
-+ [Interface-Centric Solutions - audio, video, text: VoCo.Cam](INTERFACE.md)
-+ [Process-Centric Solutions - Automation](PROCESS.md)
-+ [Service-Centric Solutions - Software Requirement: SaaSisKing](SERVICE.md)
-+ [Software-Centric Solutions - Deployment Delivery: Dialogware](SOFTWARE.md)
-+ [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](INFRASTRUCTURE.md)
-+ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring - Incidents.info CyberWafare.info CyberPolygon.org ](SECURITY.md)
-+ [SDLC](SDLC.md)
+
++ [Human-Centric Solutions - WETWARE.DEV: DigitalTwin](http://www.wetware.dev)
++ [Foundation-Centric Solutions - MODWARE.ORG: Dialogware, textware.org](https://www.modware.org)
++ [Agent-Centric Solutions - agent services: Edi.Chat, Gaiann, do.camera, sub.actor](http://leadership.run/AGENT)
++ [Interface-Centric Solutions - audio, video, text: VoCo.Cam](http://leadership.run/INTERFACE)
++ [Process-Centric Solutions - Automation](http://leadership.run/PROCESS)
++ [Service-Centric Solutions - Software Requirement: SaaSisKing](http://leadership.run/SERVICE)
++ [Software-Centric Solutions - Deployment Delivery: Dialogware](http://leadership.run/SOFTWARE)
++ [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](http://leadership.run/INFRASTRUCTURmd)
++ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring - Incidents.info CyberWafare.info CyberPolygon.org](http://leadership.run/SECURIT)
+
++ [SDLC](http://leadership.run/SDLC)
+
 
 ## Solutions
 
