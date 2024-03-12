@@ -12,7 +12,7 @@
 + [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](http://leadership.run/INFRASTRUCTURE)
 + [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring](http://www.incidents.info)
 
-+ [SDLC](http://leadership.run/SDLC)
++ [SDLC: softreck.dev](http://leadership.run/SDLC)
 
 
 ## Solutions
