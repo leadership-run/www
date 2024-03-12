@@ -10,7 +10,7 @@
 + [Service-Centric Solutions - Software Requirement: SaaSisKing.com](http://www.SaaSisKing.com)
 + [Software-Centric Solutions - Deployment Delivery: Dialogware.com](http://docs.Dialogware.com/SOFTWARE)
 + [Infrastructure-Centric Solutions - ModDevOps.com: Operations, Domains, DNS, CDN, Dynapsys](http://www.ModDevOps.com)
-+ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring](http://www.incidents.info)
++ [Security-Centric Solutions - cyberpolygon.org: Incidents Detection, Prevention, Monitoring](http://www.cyberpolygon.org)
 
 + [SDLC: softreck.dev](http://leadership.run/SDLC)
 
