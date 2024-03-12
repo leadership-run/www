@@ -4,7 +4,7 @@
 
 + [Human-Centric Solutions - WETWARE.DEV: DigitalTwin](http://www.wetware.dev)
 + [Modular-Centric Solutions - MODWARE.ORG: Dialogware, textware.org](https://www.modware.org)
-+ [Agent-Centric Solutions - agent services: Gaiann.com, Edi.Chat, do.camera, sub.actor](http://leadership.run/AGENT)
++ [Agent-Centric Solutions - TeleOperator.org: agent services Gaiann.com, Edi.Chat, do.camera, sub.actor](http://www.TeleOperator.org)
 + [Interface-Centric Solutions - audio, video, text: VoCo.Cam](http://leadership.run/INTERFACE)
 + [Process-Centric Solutions - Automation](http://leadership.run/PROCESS)
 + [Service-Centric Solutions - Software Requirement: SaaSisKing](http://leadership.run/SERVICE)
