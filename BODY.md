@@ -1,19 +1,3 @@
-# [leadership.run](http://www.leadership.run)
-
-## Menu
-
-+ [Human-Centric Solutions - WETWARE.DEV: DigitalTwin](http://www.wetware.dev)
-+ [Architecture-Centric Solutions - MODWARE.ORG: Modular Foundation for Design Pattern](https://www.modware.org)
-+ [Agent-Centric Solutions - TeleOperator.org: agent services Gaiann.com, Edi.Chat, do.camera, sub.actor](http://www.TeleOperator.org)
-+ [Interface-Centric Solutions - nanoFrontends.com: Modular/Atomized Streamed Interface for media audio, video, textware.org, WebStream.dev](http://www.nanofrontends.com)
-+ [Service-Centric Solutions - SaaSisKing.com: Software Requirements](http://www.SaaSisKing.com)
-+ [Software-Centric Solutions - text.to.software - Modular Network of Code by Dialogware](http://text.to.software)
-+ [Infrastructure-Centric Solutions - ModDevOps.com: Operations, Domains, DNS, CDN, Dynapsys](http://www.ModDevOps.com)
-+ [Security-Centric Solutions - CyberPolygon.org: Incidents Detection, Prevention, Monitoring](http://www.cyberpolygon.org)
-
-+ [SDLC: softreck.dev](http://leadership.run/SDLC)
-
-
 
 
 
@@ -24,7 +8,7 @@ Let's explore the various solution-centric approaches and their associated domai
 
 
 ### [Human-Centric Solutions](http://www.wetware.dev)
- - WETWARE.DEV: DigitalTwin
+- WETWARE.DEV: DigitalTwin
 
 These solutions prioritize human interaction, well-being, and user experience. They often involve creating digital representations (such as digital twins) to enhance understanding and decision-making.
 #### Example
@@ -32,7 +16,7 @@ Building personalized health monitoring systems that use digital twins to simula
 
 
 ### [Architecture-Centric Solutions](https://www.modware.org)
- - MODWARE.ORG: Modular Foundation for Design Pattern
+- MODWARE.ORG: Modular Foundation for Design Pattern
 
 These solutions focus on architectural principles and design patterns. They emphasize modularity, scalability, and maintainability.
 #### Example
@@ -40,7 +24,7 @@ Developing a modular architecture for a large-scale e-commerce platform.
 
 
 ### [Agent-Centric Solutions](http://www.TeleOperator.org)
- - TeleOperator.org: Agent Services (Gaiann.com, Edi.Chat, do.camera, sub.actor)
+- TeleOperator.org: Agent Services (Gaiann.com, Edi.Chat, do.camera, sub.actor)
 
 Agent-centric solutions involve intelligent agents or autonomous entities that perform tasks on behalf of users. These agents can be virtual, physical, or hybrid.
 #### Example
@@ -48,29 +32,29 @@ Virtual chatbots (like Edi.Chat) assisting users with customer support inquiries
 
 
 ### [Interface-Centric Solutions](http://www.nanofrontends.com)
- - nanoFrontends.com: Modular/Atomized Streamed Interface:
-These solutions revolve around interfaces—how users interact with systems. They emphasize modular, atomized, and streamed interfaces for media (audio, video, text).
+- nanoFrontends.com: Modular/Atomized Streamed Interface:
+  These solutions revolve around interfaces—how users interact with systems. They emphasize modular, atomized, and streamed interfaces for media (audio, video, text).
 #### Example
 Creating a highly customizable media player with interchangeable components for audio, video, and subtitles.
 
 
 ### [Service-Centric Solutions](http://www.SaaSisKing.com)
- - SaaSisKing.com: Software Requirements:
-Service-centric solutions prioritize providing specific services or functionalities. They often involve Software as a Service (SaaS) offerings.
+- SaaSisKing.com: Software Requirements:
+  Service-centric solutions prioritize providing specific services or functionalities. They often involve Software as a Service (SaaS) offerings.
 #### Example
 Cloud-based services for document collaboration, project management, or CRM.
 
 
 ### [Software-Centric Solutions](http://text.to.software)
- - text.to.software: Modular Network of Code by Dialogware:
-These solutions focus on software development and code-based solutions. They leverage modular networks of code for efficiency and extensibility.
+- text.to.software: Modular Network of Code by Dialogware:
+  These solutions focus on software development and code-based solutions. They leverage modular networks of code for efficiency and extensibility.
 #### Example
 An open-source project that encourages collaborative code contributions and modular software development.
 
 
 ### [Infrastructure-Centric Solutions](http://www.ModDevOps.com)
- - ModDevOps.com: Operations, Domains, DNS, CDN, Dynapsys:
-Infrastructure-centric solutions address the underlying systems and resources needed for applications to function. They optimize operations, domains, DNS, and content delivery.
+- ModDevOps.com: Operations, Domains, DNS, CDN, Dynapsys:
+  Infrastructure-centric solutions address the underlying systems and resources needed for applications to function. They optimize operations, domains, DNS, and content delivery.
 #### Example
 Implementing a robust DevOps pipeline for continuous integration and deployment.
 
@@ -80,7 +64,7 @@ Implementing a robust DevOps pipeline for continuous integration and deployment.
 - Incidents Detection,
 - Prevention,
 - Monitoring
-These solutions prioritize cybersecurity. They focus on detecting, preventing, and monitoring security incidents to safeguard systems and data.
+  These solutions prioritize cybersecurity. They focus on detecting, preventing, and monitoring security incidents to safeguard systems and data.
 
 #### Example
 Deploying intrusion detection systems, firewalls, and security monitoring tools.
@@ -91,34 +75,34 @@ Deploying intrusion detection systems, firewalls, and security monitoring tools.
 
 ## Services
 
-In our organization, we are working on two key layers: **Human**, **Software** and **Infrastructure** -Centric Solutions. 
+In our organization, we are working on two key layers: **Human**, **Software** and **Infrastructure** -Centric Solutions.
 
 ### Human-Centric Solutions:
 - Standardization
 
-This layer puts human needs, experiences, and interactions at the forefront. 
-We aim to understand the challenges and aspirations of people and design solutions that cater to their specific requirements. 
+This layer puts human needs, experiences, and interactions at the forefront.
+We aim to understand the challenges and aspirations of people and design solutions that cater to their specific requirements.
 Our approach focuses on user research, intuitive interfaces, ease of use, and enhancing overall user satisfaction.
 
 
 ### Service-Centric Solutions:
 -  FaaS Marketplace
-  
-This layer centers around developing robust and scalable Services solutions to address complex problems. 
+
+This layer centers around developing robust and scalable Services solutions to address complex problems.
 Our focus lies in developing advanced algorithms, data processing, automation, and optimization to offer innovative software-centric solutions.
 
 
 ### Software-Centric Solutions:
 -  FaaS Modular Architecture
 
-This layer centers around developing robust and scalable software solutions to address complex problems. 
-We leverage cutting-edge technologies, programming languages, and software engineering principles to build efficient and reliable systems. 
+This layer centers around developing robust and scalable software solutions to address complex problems.
+We leverage cutting-edge technologies, programming languages, and software engineering principles to build efficient and reliable systems.
 Our focus lies in developing advanced algorithms, data processing, automation, and optimization to deliver innovative software-centric solutions.
 
 
 ### Infrastructure Centric Solutions:
 - Faas Infrastructure, Dynapsys
-  
+
 Refer to technologies or strategies that focus on managing and optimizing the underlying physical and virtual infrastructure.
 These solutions aim to enhance the availability, performance, security, and manageability of IT infrastructure components.
 
@@ -132,13 +116,13 @@ By combining both Human-Centric and Software-Centric approaches, we ensure that 
 
 ### Information, Newsletter, Blog, News
 
-+ public org: leadership.run - CEO - strategy, businesss side of projects 
++ public org: leadership.run - CEO - strategy, businesss side of projects
 + news: researcher.pl - researcher - Near Future
 + private:
-  + communication
-  + contracts
-  + platform
-  + CFO
+    + communication
+    + contracts
+    + platform
+    + CFO
 
 
 
@@ -151,9 +135,9 @@ By combining both Human-Centric and Software-Centric approaches, we ensure that 
 + Brand identity
 + Needs Specification
 + Learning
-  + Solutions Documentation
-  + Schema Definition
-  + Standards
+    + Solutions Documentation
+    + Schema Definition
+    + Standards
 
 
 ## Solutions
@@ -182,7 +166,7 @@ Function:
 + Worker
 
 
-          
+
 
 ## Solutions, Services, Software, Conditions
 
@@ -200,18 +184,18 @@ Infrastructure Centric
 + Manage
 + Operate
 
- 
+
 ### Software
 Operation Centric
 
 + Develop
 + Deploy
-+ Monitor 
++ Monitor
 
 
 ### Sourcecode
 Development centric
-Community and Code Integration 
+Community and Code Integration
 
 + libraries
 + interfaces
@@ -252,9 +236,3 @@ Idea centric
 9. **Zarządzanie zmianą** - procesy i techniki stosowane do zarządzania wprowadzaniem i kontynuacją zmian w organizacji w kontekście realizacji strategii.
 10. **KPIs (Key Performance Indicators)** - kluczowe wskaźniki wydajności oznaczające poziomy osiągnięć, które organizacja stawia sobie za cel w kontekście różnych aspektów działalności.
 
-
-
----
-
-+ [edit](https://github.com/leadership-run/www/edit/main/README.md)
-+ [github](https://github.com/leadership-run/www/)

@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/leadership-run/www/main/HEAD.md
+https://raw.githubusercontent.com/leadership-run/www/main/MENU.md
+https://raw.githubusercontent.com/leadership-run/www/main/BODY.md
+https://raw.githubusercontent.com/leadership-run/www/main/FOOT.md
