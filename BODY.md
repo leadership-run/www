@@ -1,7 +1,6 @@
 
 
-
-## Leadership Through Software Development
+## Leadership Through Software Development [+](https://github.com/leadership-run/www/edit/main/BODY.md)
 
 
 Let's explore the various solution-centric approaches and their associated domains, each solution-centric approach serves specific purposes, and combining them strategically can lead to comprehensive and effective solutions.
