@@ -1,7 +1,7 @@
 
 ## Menu [+](https://github.com/leadership-run/www/edit/main/MENU.md)
 
-+ [Human-Centric Solutions - WETWARE.dev: DigitalTwin](http://www.wetware.dev)
++ [Human-Centric Solutions - WETWARE.dev: DigitalTwin, BioSoc](http://www.wetware.dev)
 + [Hardware-Centric Solutions - MILITARITY.com: Modular Hardware for Edge Computing](https://www.militarity.com)
 + [Architecture-Centric Solutions - MODWARE.org: Modular Foundation for Design Pattern](https://www.modware.org)
 + [Agent-Centric Solutions - TeleOperator.org: agent services Gaiann.com, Edi.Chat, do.camera, sub.actor](http://www.TeleOperator.org)
